@@ -1,0 +1,54 @@
+[
+  {
+    "canonical": "Public / Government",
+    "label_en": "Foreign Aid / International"
+  },
+  {
+    "canonical": "Public / Government",
+    "label_en": "National / Federal"
+  },
+  {
+    "canonical": "Public / Government",
+    "label_en": "State"
+  },
+  {
+    "canonical": "Public / Government",
+    "label_en": "Local"
+  },
+  {
+    "canonical": "Public / Government",
+    "label_en": "Blank / Not specified"
+  },
+  {
+    "canonical": "Private",
+    "label_en": "Non-Profit"
+  },
+  {
+    "canonical": "Private",
+    "label_en": "Blank / Not specified"
+  },
+  {
+    "canonical": "Private",
+    "label_en": "International"
+  },
+  {
+    "canonical": "Public Private Partnership",
+    "label_en": "National / Federal"
+  },
+  {
+    "canonical": "Public Private Partnership",
+    "label_en": "State"
+  },
+  {
+    "canonical": "Public Private Partnership",
+    "label_en": "Local"
+  },
+  {
+    "canonical": "Public Private Partnership",
+    "label_en": "Blank / Not specified"
+  },
+  {
+    "canonical": "Other",
+    "label_en": "Housing Organization"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "canonical": "CAN",
+    "label_en": "Cancelled / Abandoned",
+    "labels_i18n": "['Avbrutet']"
+  },
+  {
+    "canonical": "SOL",
+    "label_en": "Site Sold",
+    "labels_i18n": "['Mark s\u00e5ld']"
+  },
+  {
+    "canonical": "SFS",
+    "label_en": "Site for Sale",
+    "labels_i18n": "['Mark till salu']"
+  },
+  {
+    "canonical": "PND",
+    "label_en": "Status pending",
+    "labels_i18n": "['V\u00e4ntar p\u00e5 besked']"
+  },
+  {
+    "canonical": "HOL",
+    "label_en": "On hold",
+    "labels_i18n": "['Pausad']"
+  },
+  {
+    "canonical": "INP",
+    "label_en": "In progress",
+    "labels_i18n": "['P\u00e5g\u00e5ende']"
+  },
+  {
+    "canonical": "INF",
+    "label_en": "Info Unavailable",
+    "labels_i18n": "['Info saknas']"
+  },
+  {
+    "canonical": "COM",
+    "label_en": "Completed",
+    "labels_i18n": "['F\u00e4rdigst\u00e4lld']"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "canonical": "Alteration/Addition/Conversion",
+    "label_en": "Any structural change without additional floor area. Can also be used for changing the purpose of a space. Example, shop into a dental clinic."
+  },
+  {
+    "canonical": "Extension",
+    "label_en": "Additional floor area either horizontally or additional levels."
+  },
+  {
+    "canonical": "Refurbishment",
+    "label_en": "\"To make new\" without changes to the structure. This development type will also include fitouts."
+  },
+  {
+    "canonical": "New",
+    "label_en": null
+  },
+  {
+    "canonical": "Maintenance",
+    "label_en": null
+  },
+  {
+    "canonical": "Demolition",
+    "label_en": null
+  },
+  {
+    "canonical": "Temporary",
+    "label_en": "Temporary structures such as worker acommodation"
+  }
+]

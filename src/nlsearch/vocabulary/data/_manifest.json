@@ -1,0 +1,15 @@
+{
+  "catalog": "europe_prod_catalog",
+  "schema": "mimir_model_gold",
+  "generated_by": "scripts/sync_ontology.py",
+  "notes": "Re-run after gold ETL or seed changes. facet_places is large (~2000 rows sample).",
+  "counts": {
+    "contract_stages": 8,
+    "planning_stages": 7,
+    "project_statuses": 8,
+    "role_definitions": 316,
+    "building_use_definitions": 500,
+    "facet_places": 2000,
+    "facet_companies": 500
+  }
+}

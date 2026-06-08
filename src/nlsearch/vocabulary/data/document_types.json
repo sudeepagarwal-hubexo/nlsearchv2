@@ -1,0 +1,34 @@
+[
+  {
+    "canonical": "permit",
+    "label_en": "Building permit"
+  },
+  {
+    "canonical": "drawing",
+    "label_en": "Drawing / plan"
+  },
+  {
+    "canonical": "rfp",
+    "label_en": "RFP / tender"
+  },
+  {
+    "canonical": "news",
+    "label_en": "News article"
+  },
+  {
+    "canonical": "developer_site",
+    "label_en": "Developer / property page"
+  },
+  {
+    "canonical": "photo",
+    "label_en": "Photo / image"
+  },
+  {
+    "canonical": "document",
+    "label_en": "Document"
+  },
+  {
+    "canonical": "other",
+    "label_en": "Other"
+  }
+]

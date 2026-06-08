@@ -1,0 +1,37 @@
+[
+  {
+    "canonical": "SCH",
+    "label_en": "Schematic Design",
+    "labels_i18n": "['Skissprojektering']"
+  },
+  {
+    "canonical": "EPL",
+    "label_en": "Early Planning",
+    "labels_i18n": "['Tidig planering']"
+  },
+  {
+    "canonical": "APR",
+    "label_en": "Building Approval",
+    "labels_i18n": "['Bygglov beviljat']"
+  },
+  {
+    "canonical": "APP",
+    "label_en": "Building Application",
+    "labels_i18n": "['Bygglovsans\u00f6kan']"
+  },
+  {
+    "canonical": "REZ",
+    "label_en": "Rezoning",
+    "labels_i18n": "['Detaljplan']"
+  },
+  {
+    "canonical": "DCO",
+    "label_en": "Documentation completed",
+    "labels_i18n": "['Projektering f\u00e4rdig']"
+  },
+  {
+    "canonical": "DIP",
+    "label_en": "Documentation in progress",
+    "labels_i18n": "['Projektering p\u00e5g\u00e5r']"
+  }
+]

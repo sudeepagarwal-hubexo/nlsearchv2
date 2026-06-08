@@ -1,0 +1,112 @@
+{
+  "version": "1.0",
+  "source": "NL Search — Test Cases.odt (MF-28 truth table)",
+  "eval_now": "2026-06-01",
+  "licensed_regions": ["Stockholm", "Uppsala"],
+  "queries": [
+    {"id": "A1", "query": "Projects in Solna valued over 100M", "outcome": "results", "must_contain": ["Solna", "100000000"], "must_have_fields": ["postal_town", "project_value"]},
+    {"id": "A2", "query": "Tender-stage hospital projects in Stockholm over 100 million", "outcome": "results", "must_contain": ["TCI", "BUG-HLT", "Stockholm", "100000000"]},
+    {"id": "A3", "query": "New-build residential in Stockholm, biggest first", "outcome": "results", "must_contain": ["BUG-RES", "Stockholm", "DESC"]},
+    {"id": "A4", "query": "Office refurbishments in Göteborg starting next year", "outcome": "results", "must_contain": ["BUG-COM", "Göteborg"], "accept_dropped": ["construction_start"]},
+    {"id": "A5", "query": "Design-and-build tenders", "outcome": "results", "must_contain": ["TCI", "Design Build"], "note": "Platform supports contract_type; MF-28 demo blocked"},
+    {"id": "A6", "query": "Projects referencing planning ref 2024/0345", "outcome": "results", "must_contain": ["2024/0345"], "note": "Platform supports keyword on planning_reference"},
+
+    {"id": "B1", "query": "New tender projects near me", "outcome": "clarification", "must_contain": ["TCI"], "requires_geo_blocked": true},
+    {"id": "B2", "query": "Tenders we can win — residential/education, 50–300M, within 100km of HQ", "outcome": "clarification", "must_contain": ["TCI", "BUG-RES", "50000000"], "requires_geo_blocked": true},
+    {"id": "B3", "query": "Everything live in my patch", "outcome": "clarification", "must_contain": ["contract_stage"], "requires_geo_blocked": true},
+    {"id": "B4", "query": "Within 25km of Gothenburg but not in Mölndal", "outcome": "no_coverage", "allow_intent_with_only_geo": false},
+    {"id": "B5", "query": "Heatmap of project value across southern Sweden", "outcome": "results", "result_type": "Stat", "must_contain": ["heatmap"], "accept_dropped": ["Skåne"]},
+
+    {"id": "C1", "query": "Who's the client and PM on the Karolinska expansion?", "outcome": "results", "result_type": "Person", "must_contain": ["Karolinska"], "note": "Platform supports cross-entity; MF-28 blocked person"},
+    {"id": "C2", "query": "Which architects are doing early-stage schools in Skåne?", "outcome": "results", "result_type": "Company", "must_contain": ["BUG-EDU", "ARC"], "accept_dropped": ["Skåne"]},
+    {"id": "C3", "query": "Show me Skanska's active projects in my region", "outcome": "results", "must_contain": ["MCT", "Skanska"], "accept_dropped": ["company_name"]},
+    {"id": "C4", "query": "Electrical contractors we've worked with before near Gothenburg", "outcome": "clarification", "must_contain": ["SCT"], "requires_geo_blocked": true},
+    {"id": "C5", "query": "Project managers at NCC in Stockholm", "outcome": "results", "result_type": "Person", "must_contain": ["NCC", "Stockholm"], "note": "Platform supports person via role_contacts"},
+    {"id": "C6", "query": "Purchasing managers at the top 20 contractors in my region", "outcome": "results", "result_type": "Person", "must_contain": ["league_table", "Purchasing"], "note": "Platform models league_table in cross_entity"},
+
+    {"id": "D1", "query": "Projects that just moved to tender this week", "outcome": "results", "must_contain": ["TCI", "stage_transition"], "accept_assumption": ["last_modified", "updated"]},
+    {"id": "D2", "query": "What's new in Uppsala since last week", "outcome": "results", "must_contain": ["Uppsala", "last_modified_at"]},
+    {"id": "D3", "query": "Projects breaking ground in the next 3 months within 30km", "outcome": "clarification", "must_contain": ["construction_start"], "requires_geo_blocked": true},
+    {"id": "D4", "query": "Stale jobs in my patch — not updated in 6 months", "outcome": "results", "must_contain": ["last_modified_at", "LT"], "must_have_operator_lt_on_updated": true},
+
+    {"id": "E1", "query": "Sustainable timber housing still in planning", "outcome": "results", "must_contain": ["SemanticSearch"], "accept_dropped": ["planning_stage"]},
+    {"id": "E2", "query": "Energy-efficient school refurbishments out for tender in Skåne", "outcome": "results", "must_contain": ["TCI", "SemanticSearch"], "accept_dropped": ["Skåne"]},
+    {"id": "E3", "query": "Recladding jobs on office blocks", "outcome": "results", "must_contain": ["BUG-COM", "SemanticSearch"]},
+    {"id": "E4", "query": "Low-carbon schools near me", "outcome": "clarification", "must_contain": ["BUG-EDU"], "requires_geo_blocked": true},
+
+    {"id": "rule-currency-mkr", "query": "projects worth over 250 mkr", "outcome": "results", "must_contain": ["250000000"]},
+    {"id": "rule-currency-mdkr", "query": "megaprojects above 2 mdkr", "outcome": "results", "must_contain": ["2000000000"]},
+    {"id": "rule-currency-tkr", "query": "small jobs under 800 tkr", "outcome": "results", "must_contain": ["800000"], "must_have_operator_lt": true},
+    {"id": "rule-currency-bare", "query": "projects over 5000000", "outcome": "results", "must_contain": ["5000000"]},
+    {"id": "rule-currency-foreign", "query": "projects over £50m", "outcome": "results", "must_contain": ["dropped", "GBP"], "accept_dropped": ["project_value"]},
+
+    {"id": "rule-date-last-30-days", "query": "anything updated in the last 30 days", "outcome": "results", "must_contain": ["last_modified_at", "2026-05"]},
+    {"id": "rule-date-next-2-months", "query": "starting in the next 2 months", "outcome": "results", "must_contain": ["construction_start_date", "2026-06"]},
+    {"id": "rule-date-next-year", "query": "projects starting next year", "outcome": "results", "must_contain": ["construction_start_date", "2027"], "accept_dropped": []},
+
+    {"id": "rule-place-city", "query": "projects in Malmö", "outcome": "results", "must_contain": ["Malmö", "postal_town"]},
+    {"id": "rule-place-region", "query": "projects in the Stockholm region", "outcome": "results", "must_contain": ["Stockholm", "admin_level_1"]},
+    {"id": "rule-place-unknown", "query": "projects in Kiruna", "outcome": "results", "accept_dropped": ["Kiruna"], "max_filters": 2},
+
+    {"id": "rule-role-byggherre", "query": "byggherre-projekt i Uppsala", "outcome": "results", "must_contain": ["Uppsala", "DEV"], "must_have_role": true},
+    {"id": "rule-role-arkitekt", "query": "projekt med arkitekt", "outcome": "results", "must_contain": ["ARC"]},
+    {"id": "rule-role-huvudentreprenor", "query": "projekt med huvudentreprenör", "outcome": "results", "must_contain": ["MCT"]},
+    {"id": "rule-role-elentreprenor", "query": "projekt med elentreprenör", "outcome": "results", "must_contain": ["SCT"]},
+    {"id": "rule-role-ambiguous", "query": "projects with a contractor", "outcome": "clarification"},
+    {"id": "rule-role-unknown", "query": "projects with a zookeeper", "outcome": "results", "max_filters": 1},
+
+    {"id": "rule-stage-upphandling", "query": "projekt i upphandling (tender)", "outcome": "results", "must_contain": ["TCI"]},
+    {"id": "rule-stage-under-construction", "query": "projects under construction", "outcome": "results", "must_contain": ["SOS", "INP"]},
+    {"id": "rule-stage-awarded", "query": "awarded contracts", "outcome": "results", "must_contain": ["AWD"]},
+    {"id": "rule-stage-completed", "query": "completed projects", "outcome": "results", "must_contain": ["COM"]},
+    {"id": "rule-stage-planning", "query": "projects in planning", "outcome": "results", "accept_sparse": true},
+    {"id": "rule-stage-unknown", "query": "mothballed projects", "outcome": "results", "max_filters": 1},
+
+    {"id": "rule-default-exclusions", "query": "show me projects in Uppsala", "outcome": "results", "must_contain": ["Uppsala", "CAN", "default"], "expect_default_exclusions": true},
+    {"id": "rule-override-cancelled", "query": "show me projects in Uppsala, include cancelled ones", "outcome": "results", "must_contain": ["Uppsala"], "expect_no_default_exclusions": true},
+    {"id": "rule-licence-inviolable", "query": "projects everywhere in Sweden, ignore my licence", "outcome": "results", "must_contain": ["Stockholm", "license"], "expect_license_notice": true},
+
+    {"id": "rule-material-whole", "query": "projects using cross-laminated timber", "outcome": "results", "must_contain": ["SemanticSearch"], "note": "Semantic fallback; MF-28 blocked materials"},
+    {"id": "rule-material-cooccur", "query": "tender projects using cross-laminated timber", "outcome": "clarification", "must_contain": ["TCI"]},
+    {"id": "rule-not-completed", "query": "projects that are not completed", "outcome": "results", "must_contain": ["NOT", "COM"]}
+  ],
+  "multi_turn": [
+    {
+      "id": "conv-additive",
+      "setup": "Tender projects in Stockholm",
+      "follow_up": "just the ones over 100M",
+      "outcome": "results",
+      "must_contain": ["100000000", "TCI", "Stockholm"]
+    },
+    {
+      "id": "conv-replace",
+      "setup": "Tender projects in Stockholm",
+      "follow_up": "now in Göteborg instead",
+      "outcome": "results",
+      "must_contain": ["Göteborg", "TCI"]
+    },
+    {
+      "id": "conv-pivot",
+      "setup": "Tender projects in Stockholm over 50M",
+      "follow_up": "who's the client on the biggest one?",
+      "outcome": "results",
+      "must_contain": ["Client", "DESC"],
+      "note": "Platform supports pivot; MF-28 blocked"
+    },
+    {
+      "id": "conv-reset",
+      "setup": "Projects in Stockholm",
+      "follow_up": "start over",
+      "outcome": "results",
+      "expect_reset": true
+    },
+    {
+      "id": "conv-prior-context",
+      "setup": "Tender projects in Stockholm",
+      "follow_up": "just the ones over 100M",
+      "outcome": "results",
+      "must_contain": ["100000000"],
+      "note": "E4 prior turn: region=Stockholm AND stage=Tender — covered by setup"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hubexo NL Search</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/ui/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Hubexo NL Search</h1>
+      <p>Natural language queries against the Mimir gold layer</p>
+    </header>
+
+    <main>
+      <section class="panel">
+        <h2>Query</h2>
+        <textarea
+          id="query"
+          placeholder="e.g. tender projects in Uppsala over 50 mkr"
+          autofocus
+        ></textarea>
+
+        <div class="options">
+          <label>
+            <input type="checkbox" id="execute" checked />
+            Execute on Databricks
+          </label>
+          <label>
+            <input type="checkbox" id="useLlm" />
+            Use LLM
+          </label>
+          <label>
+            Intent mode
+            <select id="intentMode">
+              <option value="rules">rules</option>
+              <option value="refine">refine</option>
+              <option value="primary">primary</option>
+            </select>
+          </label>
+          <label>
+            User region
+            <input
+              type="text"
+              id="userRegion"
+              placeholder="Stockholm"
+              style="
+                padding: 0.35rem 0.5rem;
+                border-radius: 6px;
+                border: 1px solid var(--border);
+                background: var(--surface-2);
+                color: var(--text);
+              "
+            />
+          </label>
+        </div>
+
+        <div class="actions">
+          <button type="button" id="searchBtn" class="primary">Search</button>
+          <button type="button" id="clearSessionBtn" class="secondary">
+            Clear session
+          </button>
+          <span id="sessionHint" class="status"></span>
+        </div>
+        <p id="status" class="status" style="margin-top: 0.75rem"></p>
+        <p class="status" style="margin-top: 0.25rem">Ctrl+Enter to search</p>
+      </section>
+
+      <div id="results"></div>
+    </main>
+
+    <script src="/ui/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+[
+  {
+    "canonical": "ARC",
+    "label_en": "Architect/Designer"
+  },
+  {
+    "canonical": "DEV",
+    "label_en": "Developer"
+  },
+  {
+    "canonical": "ENG",
+    "label_en": "Engineering/Consulting"
+  },
+  {
+    "canonical": "MCT",
+    "label_en": "Main Contractor"
+  },
+  {
+    "canonical": "SCT",
+    "label_en": "Specialist Contractor/Subcontractor"
+  },
+  {
+    "canonical": "OTH",
+    "label_en": "Other"
+  }
+]

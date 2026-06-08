@@ -1,0 +1,200 @@
+{
+  "version": "1.1",
+  "source": "nl2sql-hubexo.odt",
+  "schema": "mimir_model_gold",
+  "queries": [
+    {
+      "id": "structured-01",
+      "query": "Projects in Solna valued over 100M",
+      "result_type": "Project",
+      "mode": "structured",
+      "must_contain": ["Solna", "100000000", "postal_town", "project_value"],
+      "must_have_fields": ["postal_town", "project_value"]
+    },
+    {
+      "id": "structured-02",
+      "query": "Tender-stage hospital projects in Stockholm over 100 million",
+      "result_type": "Project",
+      "mode": "structured",
+      "must_contain": ["TCI", "BUG-HLT", "Stockholm", "100000000", "contract_stage"]
+    },
+    {
+      "id": "structured-03",
+      "query": "New-build residential in Stockholm, biggest first",
+      "result_type": "Project",
+      "mode": "structured",
+      "must_contain": ["New", "BUG-RES", "Stockholm", "DESC", "development_type"]
+    },
+    {
+      "id": "structured-04",
+      "query": "Office refurbishments in Göteborg starting next year",
+      "result_type": "Project",
+      "must_contain": ["BUG-COM", "Refurbishment", "Göteborg", "construction_start_date"]
+    },
+    {
+      "id": "structured-05",
+      "query": "Design-and-build tenders",
+      "result_type": "Project",
+      "must_contain": ["TCI", "Design Build", "contract_type"]
+    },
+    {
+      "id": "structured-06",
+      "query": "Projects referencing planning ref 2024/0345",
+      "result_type": "Project",
+      "mode": "keyword",
+      "must_contain": ["2024/0345", "planning_reference"]
+    },
+    {
+      "id": "geo-01",
+      "query": "New tender projects near me",
+      "result_type": "Project",
+      "mode": "geo",
+      "must_contain": ["TCI", "userLocation", "contract_stage"]
+    },
+    {
+      "id": "geo-02",
+      "query": "Tenders we can win — residential/education, 50–300M, within 100km of HQ",
+      "result_type": "Project",
+      "must_contain": ["TCI", "BUG-RES", "BUG-EDU", "50000000", "300000000", "HQ"]
+    },
+    {
+      "id": "geo-03",
+      "query": "Everything live in my patch",
+      "result_type": "Project",
+      "mode": "geo",
+      "must_contain": ["territory", "contract_stage", "TCI"]
+    },
+    {
+      "id": "geo-04",
+      "query": "Within 25km of Gothenburg but not in Mölndal",
+      "result_type": "Project",
+      "mode": "geo",
+      "must_contain": ["Gothenburg", "Mölndal", "25", "postal_town"]
+    },
+    {
+      "id": "geo-05",
+      "query": "Heatmap of project value across southern Sweden",
+      "result_type": "Stat",
+      "mode": "aggregation",
+      "must_contain": ["Skåne", "heatmap", "project_value"]
+    },
+    {
+      "id": "cross-01",
+      "query": "Who's the client and PM on the Karolinska expansion?",
+      "result_type": "Person",
+      "mode": "cross_entity",
+      "must_contain": ["Karolinska", "Client", "Project Manager"]
+    },
+    {
+      "id": "cross-02",
+      "query": "Which architects are doing early-stage schools in Skåne?",
+      "result_type": "Company",
+      "mode": "cross_entity",
+      "must_contain": ["BUG-EDU", "EPL", "Skåne", "Architect"]
+    },
+    {
+      "id": "cross-03",
+      "query": "Show me Skanska's active projects in my region",
+      "result_type": "Project",
+      "must_contain": ["Skanska", "contract_stage", "TCI"]
+    },
+    {
+      "id": "cross-04",
+      "query": "Electrical contractors we've worked with before near Gothenburg",
+      "result_type": "Company",
+      "must_contain": ["ElectricalContractor", "collaborated", "Västra Götaland"]
+    },
+    {
+      "id": "cross-05",
+      "query": "Project managers at NCC in Stockholm",
+      "result_type": "Person",
+      "must_contain": ["NCC", "Stockholm", "Project Manager"]
+    },
+    {
+      "id": "cross-06",
+      "query": "Purchasing managers at the top 20 contractors in my region",
+      "result_type": "Person",
+      "mode": "cross_entity",
+      "must_contain": ["Purchasing", "league_table", "20"]
+    },
+    {
+      "id": "temporal-01",
+      "query": "Projects that just moved to tender this week",
+      "result_type": "Project",
+      "mode": "temporal",
+      "must_contain": ["stage_transition", "Tender"]
+    },
+    {
+      "id": "temporal-02",
+      "query": "What's new in Uppsala since last week",
+      "result_type": "Project",
+      "must_contain": ["Uppsala", "last_modified_at"]
+    },
+    {
+      "id": "temporal-03",
+      "query": "Projects breaking ground in the next 3 months within 30km",
+      "result_type": "Project",
+      "must_contain": ["construction_start_date", "30", "userLocation"]
+    },
+    {
+      "id": "temporal-04",
+      "query": "Stale jobs in my patch — not updated in 6 months",
+      "result_type": "Project",
+      "must_contain": ["last_modified_at", "territory"]
+    },
+    {
+      "id": "semantic-01",
+      "query": "Sustainable timber housing still in planning",
+      "result_type": "Project",
+      "mode": "semantic",
+      "must_contain": ["SemanticSearch", "planning_stage"]
+    },
+    {
+      "id": "semantic-02",
+      "query": "Energy-efficient school refurbishments out for tender in Skåne",
+      "result_type": "Project",
+      "mode": "semantic",
+      "must_contain": ["SemanticSearch", "TCI", "Skåne"]
+    },
+    {
+      "id": "semantic-03",
+      "query": "Recladding jobs on office blocks",
+      "result_type": "Project",
+      "mode": "semantic",
+      "must_contain": ["SemanticSearch", "BUG-COM", "Refurbishment"]
+    },
+    {
+      "id": "semantic-04",
+      "query": "Low-carbon schools near me",
+      "result_type": "Project",
+      "mode": "hybrid",
+      "must_contain": ["SemanticSearch", "BUG-EDU", "userLocation"]
+    }
+  ],
+  "multi_turn": [
+    {
+      "id": "mt-01",
+      "setup": "Tender projects in Stockholm",
+      "follow_up": "just the ones over 100M",
+      "must_contain": ["100000000", "Stockholm", "TCI"]
+    },
+    {
+      "id": "mt-02",
+      "setup": "Tender projects in Stockholm",
+      "follow_up": "now in Göteborg instead",
+      "must_contain": ["teborg", "postal_town"]
+    },
+    {
+      "id": "mt-03",
+      "setup": "Tender projects in Stockholm over 50M",
+      "follow_up": "who's the client on the biggest one?",
+      "must_contain": ["Client", "DESC", "project_value"]
+    },
+    {
+      "id": "mt-04",
+      "setup": "Projects in Stockholm",
+      "follow_up": "start over",
+      "expect_reset": true
+    }
+  ]
+}

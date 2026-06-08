@@ -1,0 +1,50 @@
+[
+  {
+    "canonical": "Public Private Partnership",
+    "label_en": "The governmenat engages a private company or consortium to design, finance, construct and afterwards maintain and operate the facility. Will include Build Operate Transfer and Build Own Operate Projects)"
+  },
+  {
+    "canonical": "Construction Management",
+    "label_en": "The construction manager is in-charge of the construction phase of the project including engaging subcontractors."
+  },
+  {
+    "canonical": "Design Build",
+    "label_en": "The company to undertake construction will complete the design of the project."
+  },
+  {
+    "canonical": "Developer Builder",
+    "label_en": "The developer of the property is also the contractor of the project."
+  },
+  {
+    "canonical": "Framework",
+    "label_en": "A framework agreement provides the terms and conditions for future contracts under that agreement. The terms will include pricing and quality standards."
+  },
+  {
+    "canonical": "Project Management",
+    "label_en": "Similar to a construction management contract, a developer engages a contractor for a project management contract in order to manage the project primarily during construction but sometimes also during planning and design. The management contractor engages subcontractors and other roles necessary to complete the project."
+  },
+  {
+    "canonical": "Term Contract",
+    "label_en": "These are contracts where the client has a regular programme of works that they would like to be undertaken by a single contractor. They are generally used for minor works or for maintenance work."
+  },
+  {
+    "canonical": "Engineering Procurement & Construction / Turnkey",
+    "label_en": "The contractor has more control over the design and construction of the project, incl. engaging  subcontracts/services and supplies. The contractor is to make decisions and carry out work according terms of reference and will return control of the project to the developer only upon turnover."
+  },
+  {
+    "canonical": "General/Traditional",
+    "label_en": "The most common main contract type where the main/general contractor is responsible for the construction of the project and may or many hire subcontractors for specific trades."
+  },
+  {
+    "canonical": "Not specified / Not yet established",
+    "label_en": "This dropdown will be used when the contract type is not known."
+  },
+  {
+    "canonical": "Local / In-house labour",
+    "label_en": "Local or in-house labour is engaged to complete works based on casual agreements or idividual contractual agreements. Normally used for minor works."
+  },
+  {
+    "canonical": "Early Contractor Involvement",
+    "label_en": null
+  }
+]

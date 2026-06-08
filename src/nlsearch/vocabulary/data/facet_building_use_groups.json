@@ -1,0 +1,38 @@
+[
+  {
+    "canonical": "BUG-EDU"
+  },
+  {
+    "canonical": "BUG-COM"
+  },
+  {
+    "canonical": "BUG-HLT"
+  },
+  {
+    "canonical": "BUG-CCA"
+  },
+  {
+    "canonical": "BUG-RET"
+  },
+  {
+    "canonical": "BUG-INF"
+  },
+  {
+    "canonical": "BUG-AGR"
+  },
+  {
+    "canonical": "BUG-RES"
+  },
+  {
+    "canonical": "BUG-SPL"
+  },
+  {
+    "canonical": "BUG-OTH"
+  },
+  {
+    "canonical": "BUG-ENU"
+  },
+  {
+    "canonical": "BUG-IND"
+  }
+]

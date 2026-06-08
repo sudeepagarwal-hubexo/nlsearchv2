@@ -1,0 +1,268 @@
+erDiagram
+    contract_stages ||--o{ contract_stage_translations : "contract stage id"
+    languages ||--o{ contract_stage_translations : "language id"
+    planning_stages ||--o{ planning_stage_translations : "planning stage id"
+    languages ||--o{ planning_stage_translations : "language id"
+    project_documents ||--o{ project_building_uses : "project id"
+    project_documents ||--o{ project_dimensions : "project id"
+    project_documents ||--o{ project_documents : "project id"
+    project_documents ||--o{ project_fields : "project id"
+    planning_stages ||--o{ project_fields : "planning stage id"
+    contract_stages ||--o{ project_fields : "contract stage id"
+    project_statuses ||--o{ project_fields : "project status id"
+    project_documents ||--o{ project_green_building : "project id"
+    project_documents ||--o{ project_materials : "project id"
+    project_documents ||--o{ project_metadata : "project id"
+    project_documents ||--o{ project_residential : "project id"
+    project_role_contacts ||--o{ project_role_contacts : "contact id"
+    project_documents ||--o{ project_roles : "project id"
+    project_statuses ||--o{ project_status_translations : "project status id"
+    languages ||--o{ project_status_translations : "language id"
+    languages ||--o{ role_definition_translations : "language id"
+    languages ||--o{ role_group_translations : "language id"
+    project_documents ||--o{ site_address : "project id"
+    building_use_definitions {
+        string building_use_code
+        string superset_code
+        string building_use_name
+        string building_use_group
+        string record_type
+        int used_count
+    }
+    building_use_groups {
+        string building_use_group
+        string building_use_group_name
+    }
+    contract_stage_translations {
+        int contract_stage_id FK
+        int language_id FK
+        string label
+        string description
+    }
+    contract_stages {
+        int id PK
+        string key
+        string label
+        string description
+    }
+    contract_types {
+        string contract_type
+        string description
+        boolean deferred
+    }
+    development_types {
+        string development_type
+        string description
+    }
+    document_types {
+        string document_type_code
+        string label
+        string description
+    }
+    green_building_definitions {
+        string field_code
+        string workbook_code
+        string field_name
+        string description
+    }
+    green_building_schemes {
+        string scheme_code
+        string scheme_name
+    }
+    languages {
+        int id PK
+        string name
+        string iso_693_1_alpha2_code
+        string iso_639_3_alpha3_code
+    }
+    material_definitions {
+        string material_code
+        int superset_code
+        string material_group
+        string location
+        string function_form
+        string material_substance
+        string material_name
+        string editorial_notes
+    }
+    material_groups {
+        string material_group
+        int item_count
+        string cleanup_status
+    }
+    ownership_types {
+        string ownership_type
+        string ownership_level
+    }
+    planning_stage_translations {
+        int planning_stage_id FK
+        int language_id FK
+        string label
+        string description
+    }
+    planning_stages {
+        int id PK
+        string key
+        string label
+        string description
+    }
+    project_building_uses {
+        int project_building_use_id
+        string project_id FK
+        string building_use_code
+        string building_use_group
+        string source_building_use
+        boolean is_primary
+        int ranking
+        datetime last_modified_at
+    }
+    project_dimensions {
+        string project_id FK
+        int storeys_above_ground
+        int storeys_below_ground
+        float building_height_m
+        float gross_floor_area_sqm
+        string gross_floor_area_source
+        float site_area_sqm
+        int number_of_buildings
+        int above_ground_parking_spaces
+        int basement_parking_spaces
+        int bicycle_spaces
+        float refurbishment_area_sqm
+        string _more_5_columns
+    }
+    project_documents {
+        int project_document_id
+        string project_id FK
+        string document_type
+        string title
+        string description
+        string url
+        string media_type
+        string origin_id
+        string origin_research_system
+        int sort_order
+        boolean is_visible
+        datetime last_modified_at
+    }
+    project_fields {
+        string project_id FK
+        string project_heading
+        string description
+        int planning_stage_id FK
+        int contract_stage_id FK
+        int project_status_id FK
+        date construction_start_date
+        date construction_end_date
+        float project_value
+        string currency
+        string image_url
+        string building_use_code
+        string _more_9_columns
+    }
+    project_green_building {
+        int project_green_building_id PK
+        string project_id FK
+        string scheme_code
+        string rating
+        float score
+        float interim_score
+        float percentage
+        float interim_percentage
+        string assessment_status
+        string scheme_version
+        string reference_number
+        date certified_date
+        string _more_4_columns
+    }
+    project_materials {
+        int project_material_id
+        string project_id FK
+        string material_code
+        string material_group
+        string source_material_name
+        string source_kind
+        datetime last_modified_at
+    }
+    project_metadata {
+        string project_id FK
+        int first_published_by
+        datetime first_published_at
+        int latest_published_by
+        datetime latest_published_at
+        string origin_research_system
+        string origin_id
+        datetime last_modified_at
+    }
+    project_residential {
+        string project_id FK
+        int total_unit_count
+        datetime last_modified_at
+    }
+    project_role_contacts {
+        int assignment_contact_id
+        int assignment_id
+        string contact_id FK
+        string person_role_type
+        datetime last_modified_at
+    }
+    project_roles {
+        int assignment_id
+        string project_id FK
+        string workplace_id
+        string company_id
+        string company_name
+        string project_role_code
+        string source_role_name
+        datetime last_modified_at
+    }
+    project_status_translations {
+        int project_status_id FK
+        int language_id FK
+        string label
+        string description
+    }
+    project_statuses {
+        int id PK
+        string key
+        string label
+        string description
+    }
+    role_definition_translations {
+        string project_role_code
+        int language_id FK
+        string label
+        string description
+    }
+    role_definitions {
+        string project_role_code
+        string role_group_code
+        string label
+        string description
+    }
+    role_group_translations {
+        string group_code
+        int language_id FK
+        string label
+        string description
+    }
+    role_groups {
+        string group_code
+        string label
+        string description
+    }
+    site_address {
+        string project_id FK
+        string street_number
+        string street_name
+        string postal_town
+        string postal_code
+        string country
+        string admin_level_1
+        string admin_level_2
+        float latitude
+        float longitude
+        datetime last_modified_at
+    }
+
+%% catalog=europe_prod_catalog schema=mimir_model_gold tables=32

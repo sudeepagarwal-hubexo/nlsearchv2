@@ -1,0 +1,94 @@
+[
+  {
+    "canonical": "Sustainabl",
+    "label_en": "Sustainable Homes"
+  },
+  {
+    "canonical": "acthouse",
+    "label_en": "Active house"
+  },
+  {
+    "canonical": "br2020",
+    "label_en": "BR2020"
+  },
+  {
+    "canonical": "breeam",
+    "label_en": "BREEAM"
+  },
+  {
+    "canonical": "ccs",
+    "label_en": "Considerate Constructors Scheme"
+  },
+  {
+    "canonical": "ceequal",
+    "label_en": "CEEQUAL"
+  },
+  {
+    "canonical": "dgnb",
+    "label_en": "DGNB"
+  },
+  {
+    "canonical": "energyopt",
+    "label_en": "Energy optimization"
+  },
+  {
+    "canonical": "greenbuild",
+    "label_en": "GreenBuilding"
+  },
+  {
+    "canonical": "greenhouse",
+    "label_en": "Greenhouse"
+  },
+  {
+    "canonical": "leead",
+    "label_en": "LEEAD"
+  },
+  {
+    "canonical": "lifeass",
+    "label_en": "Life cycle assessment"
+  },
+  {
+    "canonical": "lowenergy",
+    "label_en": "Low energy"
+  },
+  {
+    "canonical": "miljobyggn",
+    "label_en": "Milj\u00f6byggnad"
+  },
+  {
+    "canonical": "nordecocon",
+    "label_en": "Nordic ecolabelled construction"
+  },
+  {
+    "canonical": "passhouse",
+    "label_en": "Passive house"
+  },
+  {
+    "canonical": "passivhus",
+    "label_en": "Passivhus"
+  },
+  {
+    "canonical": "sustInit",
+    "label_en": "Sustainability initiatives"
+  },
+  {
+    "canonical": "svanen",
+    "label_en": "Svanen"
+  },
+  {
+    "canonical": "vol_low_em",
+    "label_en": "The voluntary low-emission class"
+  },
+  {
+    "canonical": "voluntary",
+    "label_en": "The voluntary sustainability class"
+  },
+  {
+    "canonical": "zeroenergy",
+    "label_en": "Zero energy"
+  },
+  {
+    "canonical": "unspecified",
+    "label_en": "Environmentally certified (scheme not specified)"
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "canonical": "BU-306",
+    "label_en": "Heavy Industrial Project",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-742",
+    "label_en": "Trunk Road",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-436",
+    "label_en": "Motorway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-596",
+    "label_en": "Sea Defence Work",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-652",
+    "label_en": "Snooker Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-669",
+    "label_en": "Sports Stadium",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-239",
+    "label_en": "Football Stadium",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-808",
+    "label_en": "Zoological Garden",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-160",
+    "label_en": "Creche",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-691",
+    "label_en": "Sure Start Centre",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-516",
+    "label_en": "Portable Buildings",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-455",
+    "label_en": "Nursery",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-180",
+    "label_en": "Dental Surgery",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-19",
+    "label_en": "Animal Building",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-624",
+    "label_en": "Sheltered Housing (Public)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-800",
+    "label_en": "Wine Bar",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-533",
+    "label_en": "Pub",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-345",
+    "label_en": "Internet Caf\u00e9",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-234",
+    "label_en": "Flood Protection",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-181",
+    "label_en": "Department Store",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-1425",
+    "label_en": "Speed Cameras",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-747",
+    "label_en": "TV Studio",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-552",
+    "label_en": "Recording Studio",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-236",
+    "label_en": "Food Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-28",
+    "label_en": "Apron",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-792",
+    "label_en": "Waterway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-471",
+    "label_en": "Oil Platform",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-469",
+    "label_en": "Oil / Gas Platform",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-277",
+    "label_en": "Gas Platform",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-204",
+    "label_en": "Enabling Work",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-751",
+    "label_en": "Underpass",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-728",
+    "label_en": "Traffic Management",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-727",
+    "label_en": "Traffic Calming",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-493",
+    "label_en": "Park & Ride",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-30",
+    "label_en": "Aqueduct",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-644",
+    "label_en": "Skating Rink",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-311",
+    "label_en": "Historic House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-535",
+    "label_en": "Public Toilet",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-722",
+    "label_en": "Tourist Information Centre",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-214",
+    "label_en": "Estate Agent",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-95",
+    "label_en": "Cash & Carry (Food)",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-226",
+    "label_en": "Fast Food Outlet",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-451",
+    "label_en": "Non Food Retail Ware House",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-518",
+    "label_en": "Postal Sorting Office",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-167",
+    "label_en": "Customer Service Centre",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-222",
+    "label_en": "Farm Building",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-437",
+    "label_en": "Motorway Service Area",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-307",
+    "label_en": "High Tech Industrial",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-623",
+    "label_en": "Sheltered Housing (Private)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-27",
+    "label_en": "Apartments, Flats (Public)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-195",
+    "label_en": "Elderly Person Home (Private)",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-388",
+    "label_en": "Luxury Housing",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-25",
+    "label_en": "Apartments, Flats (Private)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-359",
+    "label_en": "Key Worker Accommodation",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-11",
+    "label_en": "Airport",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-9",
+    "label_en": "Air Terminal",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-643",
+    "label_en": "Skate Park",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-215",
+    "label_en": "Estate Road",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-363",
+    "label_en": "Lake",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-776",
+    "label_en": "Waste Transfer Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-658",
+    "label_en": "Solarium",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-671",
+    "label_en": "Squash Court",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-664",
+    "label_en": "Spectator Stands",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-61",
+    "label_en": "Bingo Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-696",
+    "label_en": "Swimming Pool (Comm)",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-15",
+    "label_en": "Amusement Arcade",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-763",
+    "label_en": "Veterinary Surgery",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-58",
+    "label_en": "Betting Shop",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-152",
+    "label_en": "Contaminated Land",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-341",
+    "label_en": "Infrastructure",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-626",
+    "label_en": "Shipping Terminal",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-53",
+    "label_en": "Barrage",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-582",
+    "label_en": "Riding School",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-211",
+    "label_en": "Equestrian School",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-698",
+    "label_en": "Swimming Pool Enclosure",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-150",
+    "label_en": "Conservatory",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-666",
+    "label_en": "Sports Arena",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-594",
+    "label_en": "School To Sixth Form",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-176",
+    "label_en": "Day Centre",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-316",
+    "label_en": "Hospice",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-693",
+    "label_en": "Surgery",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-413",
+    "label_en": "Military Building",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-297",
+    "label_en": "Guest House",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-369",
+    "label_en": "Launderette",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-631",
+    "label_en": "Shop Front",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-321",
+    "label_en": "House (Private)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-570",
+    "label_en": "Residential Outline (Private)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-2",
+    "label_en": "Abattoir",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-188",
+    "label_en": "Distribution Depot",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-196",
+    "label_en": "Elderly Person Home (Public)",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-364",
+    "label_en": "Land Reclamation",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-107",
+    "label_en": "Chalet",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-383",
+    "label_en": "Local Road",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-323",
+    "label_en": "House (Public)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-565",
+    "label_en": "Renewable Energy",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-430",
+    "label_en": "Mobile Classroom",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-507",
+    "label_en": "Piling",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-143",
+    "label_en": "Concert Hall",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-144",
+    "label_en": "Concert Hall",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-699",
+    "label_en": "Synthetic Sports Surface",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-285",
+    "label_en": "Golf Club House",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-330",
+    "label_en": "Indoor Play Area",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-18",
+    "label_en": "Ancillary Office Space",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-350",
+    "label_en": "IT",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-174",
+    "label_en": "Data Processing",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-707",
+    "label_en": "Telecom Mast",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-268",
+    "label_en": "Freezing Plant",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-314",
+    "label_en": "Home & Hostel",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-26",
+    "label_en": "Apartments, Flats (PRS)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-794",
+    "label_en": "Wave Energy",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-719",
+    "label_en": "Tidal Energy",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-475",
+    "label_en": "Onshore Wind Farm",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-463",
+    "label_en": "Offshore Wind Farm",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-17",
+    "label_en": "Anaerobic Digestion Plant",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-322",
+    "label_en": "House (PRS)",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-119",
+    "label_en": "Civil Defense Training Centre",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-34",
+    "label_en": "Armory",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-405",
+    "label_en": "Medical Post",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-400",
+    "label_en": "Medical Aid Station",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-118",
+    "label_en": "Civil Defence Facility",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-231",
+    "label_en": "Fire Department Building",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-102",
+    "label_en": "Cellar",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-21",
+    "label_en": "Animal Shelter",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-324",
+    "label_en": "Hut",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-648",
+    "label_en": "Slaughterhouse",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-561",
+    "label_en": "Reintegration Site",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-580",
+    "label_en": "Retention Tank",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-583",
+    "label_en": "Riverworks",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-514",
+    "label_en": "Pond",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-549",
+    "label_en": "Rainwater Retention Basin",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-750",
+    "label_en": "Underground Water Protection",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-781",
+    "label_en": "Water Channel Regulation System",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-531",
+    "label_en": "Protective Dam",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-294",
+    "label_en": "Ground Dam",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-634",
+    "label_en": "Shore",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-485",
+    "label_en": "Outfall facility",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-340",
+    "label_en": "Influx Facility",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-795",
+    "label_en": "Weir",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-590",
+    "label_en": "Sailing Chamber",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-446",
+    "label_en": "Navigable Water Chanel",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-342",
+    "label_en": "Innavigable Water Channel",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-35",
+    "label_en": "Arms Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-489",
+    "label_en": "Paper Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-487",
+    "label_en": "Packer Facility",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-94",
+    "label_en": "Carpenter Facility",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-628",
+    "label_en": "Shoe Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-689",
+    "label_en": "Sugar Factory",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-419",
+    "label_en": "Mill",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-151",
+    "label_en": "Construction Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-145",
+    "label_en": "Concrete Plant",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-70",
+    "label_en": "Brick Production Facility",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-44",
+    "label_en": "Automotive Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-555",
+    "label_en": "Refinery",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-410",
+    "label_en": "Metallurgical Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-347",
+    "label_en": "Iron Foundry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-348",
+    "label_en": "Ironworks",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-200",
+    "label_en": "Electrotechnical Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-337",
+    "label_en": "Industrial Hall",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-700",
+    "label_en": "Tank",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-156",
+    "label_en": "Cooling Warehouse",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-329",
+    "label_en": "Inclined Shaft",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-761",
+    "label_en": "Vertical Shaft",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-54",
+    "label_en": "Basement Car Park",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-80",
+    "label_en": "Cableway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-731",
+    "label_en": "Tram",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-760",
+    "label_en": "Ventilation Buildings",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-744",
+    "label_en": "Tunnel Portal",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-542",
+    "label_en": "Rail Tunnel",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-541",
+    "label_en": "Rail Bridge",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-240",
+    "label_en": "Footbridge",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-229",
+    "label_en": "Field Trail",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-265",
+    "label_en": "Forest Trail",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-729",
+    "label_en": "Trail",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-302",
+    "label_en": "Hazardours Waste Landfill",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-550",
+    "label_en": "Reactor Landfill",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-339",
+    "label_en": "Inert Waste Depot",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-62",
+    "label_en": "Biological & Chemical Wastewater Treatment Plant",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-398",
+    "label_en": "Mechanical Wastewater Treatment Plant",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-101",
+    "label_en": "Cavern",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-453",
+    "label_en": "Non Urban Underground Water Protection",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-757",
+    "label_en": "Urban Underground Water Protection",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-14",
+    "label_en": "Ameliorative & Dewatering System",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-789",
+    "label_en": "Water Swallowing System",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-526",
+    "label_en": "Pressure Gallery",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-620",
+    "label_en": "Sewer Shaft",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-338",
+    "label_en": "Industrial Sewer System",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-452",
+    "label_en": "Non Urban Sewer System",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-208",
+    "label_en": "Engineering Network IS",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-756",
+    "label_en": "Urban Sewer System",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-1399",
+    "label_en": "LBI - Glatf\u00f8re-/vandrensningskemikalier (salt)",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1398",
+    "label_en": "LBI - Vedligeholdelse af gr\u00f8nne omr\u00e5der",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1397",
+    "label_en": "LBI - Container / affald (inkl. skraldesug)",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1396",
+    "label_en": "LBI - Adminstration Af boliger",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1395",
+    "label_en": "LBI - udlarking",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1394",
+    "label_en": "LBI - Internet/tv boligselskaber",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1393",
+    "label_en": "LBI - Pleje- omsorg drift plejehjem",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1392",
+    "label_en": "LBI - Arbejdsmilj\u00f8",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1391",
+    "label_en": "LBI - Skadedyrsbek\u00e6mpelse",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1390",
+    "label_en": "LBI - Reng\u00f8ringsartikler/maskiner",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1389",
+    "label_en": "LBI - Optiker",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1388",
+    "label_en": "LBI - Vikar",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1387",
+    "label_en": "LBI - Vognmand (ej personk\u00f8rsel)",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1386",
+    "label_en": "LBI - Tolke",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1385",
+    "label_en": "LBI - Analyser og evalueringer",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1384",
+    "label_en": "LBI - Medico mindre forbrugsvarer",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1383",
+    "label_en": "LBI - Medico apparatur",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1382",
+    "label_en": "LBI - Advokat",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1381",
+    "label_en": "LBI - Trykkeri",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1380",
+    "label_en": "LBI - Reklame",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1379",
+    "label_en": "LBI - Software",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1378",
+    "label_en": "LBI - Kropsb\u00e5rne hj\u00e6lpemidler",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1377",
+    "label_en": "LBI - Tv, radio, kamera",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1376",
+    "label_en": "LBI - T\u00f8mning slam/kloak",
+    "group_code": null,
+    "record_type": "LBI"
+  },
+  {
+    "canonical": "BU-1424",
+    "label_en": "Technical support",
+    "group_code": null,
+    "record_type": "Service"
+  },
+  {
+    "canonical": "BU-1423",
+    "label_en": "Service, operation and maintenance of technical installations",
+    "group_code": null,
+    "record_type": "Service"
+  },
+  {
+    "canonical": "BU-1422",
+    "label_en": "Cleaning",
+    "group_code": null,
+    "record_type": "Service"
+  },
+  {
+    "canonical": "BU-1421",
+    "label_en": "Engineering",
+    "group_code": null,
+    "record_type": "Service"
+  },
+  {
+    "canonical": "BU-1420",
+    "label_en": "Architectural services",
+    "group_code": null,
+    "record_type": "Service"
+  },
+  {
+    "canonical": "BU-1419",
+    "label_en": "Tools",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1418",
+    "label_en": "Circulation fixtures and signs",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1417",
+    "label_en": "Equipment",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1416",
+    "label_en": "Technical installations",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1415",
+    "label_en": "Technical installations for utilities",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1414",
+    "label_en": "Security and access",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1413",
+    "label_en": "Furniture, fixtures and fittings",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1412",
+    "label_en": "Playground and park equipment",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1411",
+    "label_en": "Supply wires",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1410",
+    "label_en": "Occupational clothing",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1409",
+    "label_en": "Household electrical appliances",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1408",
+    "label_en": "Electricity",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1407",
+    "label_en": "Building materials",
+    "group_code": null,
+    "record_type": "Purchase"
+  },
+  {
+    "canonical": "BU-1406",
+    "label_en": "Masonry and bricklaying work",
+    "group_code": null,
+    "record_type": "Fagarbejder"
+  },
+  {
+    "canonical": "BU-1405",
+    "label_en": "Fitting of carpentry not of metal",
+    "group_code": null,
+    "record_type": "Fagarbejder"
+  },
+  {
+    "canonical": "BU-1404",
+    "label_en": "Installation of doors and windows and related components",
+    "group_code": null,
+    "record_type": "Fagarbejder"
+  },
+  {
+    "canonical": "BU-1403",
+    "label_en": "Installation of heating, ventilation and air conditioning",
+    "group_code": null,
+    "record_type": "Fagarbejder"
+  },
+  {
+    "canonical": "BU-1402",
+    "label_en": "Fagarbejder",
+    "group_code": null,
+    "record_type": "Fagarbejder"
+  },
+  {
+    "canonical": "BU-1401",
+    "label_en": "Installation of elevator and escalator",
+    "group_code": null,
+    "record_type": "Fagarbejder"
+  },
+  {
+    "canonical": "BU-376",
+    "label_en": "Leisure House",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-159",
+    "label_en": "Cottage",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-233",
+    "label_en": "Flat",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-530",
+    "label_en": "Produkt/indk\u00f8b",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-78",
+    "label_en": "Byplanl\u00e6gning",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-77",
+    "label_en": "Byplanl\u00e6gning",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-645",
+    "label_en": "Skeleton Agreement",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-368",
+    "label_en": "Landslip Safeguard",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-366",
+    "label_en": "Landfill",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-296",
+    "label_en": "Groundworks",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-46",
+    "label_en": "Avalanche Barrier",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-543",
+    "label_en": "Railing",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-227",
+    "label_en": "Fence",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-771",
+    "label_en": "Wall",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-659",
+    "label_en": "Sound Barrier",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-588",
+    "label_en": "Rocks",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-115",
+    "label_en": "Church Yard",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-194",
+    "label_en": "Earth Dam",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-111",
+    "label_en": "Check Dam",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-271",
+    "label_en": "Funicular Railway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-128",
+    "label_en": "Cog Railway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-390",
+    "label_en": "MagLev Train",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-636",
+    "label_en": "Shunting Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-384",
+    "label_en": "Lock",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-566",
+    "label_en": "Renovation of Watercourses",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-353",
+    "label_en": "Jetty",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-649",
+    "label_en": "Sluice",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-300",
+    "label_en": "Harbour",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-73",
+    "label_en": "Broadband Network",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-752",
+    "label_en": "Underwater Pipeline",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-785",
+    "label_en": "Water Piping",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-791",
+    "label_en": "Water Treatment Work",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-793",
+    "label_en": "Waterworks",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-165",
+    "label_en": "Culvert",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-439",
+    "label_en": "Mountain Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-670",
+    "label_en": "Square",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-69",
+    "label_en": "Brick Laying",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-37",
+    "label_en": "Asphalting",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-291",
+    "label_en": "Gravel Road",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-499",
+    "label_en": "Pedestrianisation",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-681",
+    "label_en": "Street",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-158",
+    "label_en": "Corridor",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-797",
+    "label_en": "Wellness Centre",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-304",
+    "label_en": "Health Club",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-807",
+    "label_en": "Zoo",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-83",
+    "label_en": "Camp Site",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-479",
+    "label_en": "Outdoor Leisure Centre",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-697",
+    "label_en": "Swimming Pool (Resdtl)",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-351",
+    "label_en": "Jacuzzi",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-675",
+    "label_en": "Statue",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-432",
+    "label_en": "Monument",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-36",
+    "label_en": "Art Elements",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-387",
+    "label_en": "Lookout Towers",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-627",
+    "label_en": "Shipyard",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-64",
+    "label_en": "Boathouse",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-313",
+    "label_en": "Holiday Village",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-373",
+    "label_en": "Leisure Building",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-484",
+    "label_en": "Outdoor Swimming Pool",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-483",
+    "label_en": "Outdoor Stage",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-332",
+    "label_en": "Indoor Spectator Stands",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-331",
+    "label_en": "Indoor Riding",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-327",
+    "label_en": "Ice Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-334",
+    "label_en": "Indoor Swimming Pool",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-713",
+    "label_en": "Tennis Court",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-299",
+    "label_en": "Gymnastics Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-668",
+    "label_en": "Sports Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-629",
+    "label_en": "Shooting Range",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-653",
+    "label_en": "Snow Canon",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-647",
+    "label_en": "Ski Slope",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-480",
+    "label_en": "Outdoor Spectator Stands",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-740",
+    "label_en": "Trotting Track",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-509",
+    "label_en": "Pitch",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-482",
+    "label_en": "Outdoor Sports Facility",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-148",
+    "label_en": "Congress Centre",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-572",
+    "label_en": "Resocialisation Centre",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-712",
+    "label_en": "Temporary Building",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-445",
+    "label_en": "Music Pavilion",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-491",
+    "label_en": "Parish House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-38",
+    "label_en": "Assembly Hall",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-210",
+    "label_en": "Entertainment Hall",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-767",
+    "label_en": "Village Hall",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-674",
+    "label_en": "Staff Room",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-571",
+    "label_en": "Residential Study Centre",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-805",
+    "label_en": "Youth Centre",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-3",
+    "label_en": "Abdication Hall",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-218",
+    "label_en": "Exhibition Objects",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-98",
+    "label_en": "Castle",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-31",
+    "label_en": "Archives",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-32",
+    "label_en": "Archives",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-164",
+    "label_en": "Cultural Facility",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-431",
+    "label_en": "Monastery",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-765",
+    "label_en": "Vicarage",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-106",
+    "label_en": "Ceremonial Hall",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-434",
+    "label_en": "Mortuary",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-654",
+    "label_en": "Social Building",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-768",
+    "label_en": "Vocational/Technical School",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-662",
+    "label_en": "Special School",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-599",
+    "label_en": "Secondary Education",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-356",
+    "label_en": "Junior School",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-525",
+    "label_en": "Preschool",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-6",
+    "label_en": "After-School Centre",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-754",
+    "label_en": "University Hospital",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-357",
+    "label_en": "Juvenile Home",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-219",
+    "label_en": "Extended Care Facility",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-409",
+    "label_en": "Mental Health Facility",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-175",
+    "label_en": "Day Care Centre",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-406",
+    "label_en": "Medical Practices",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-12",
+    "label_en": "Ambulance Station",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-661",
+    "label_en": "Special Hospital",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-179",
+    "label_en": "Dental Clinic",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-303",
+    "label_en": "Health Centre",
+    "group_code": "BUG-HLT",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-438",
+    "label_en": "Mountain Cottage",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-701",
+    "label_en": "Tavern",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-361",
+    "label_en": "Kitchen",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-186",
+    "label_en": "Dining Room",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-24",
+    "label_en": "Apartment Hotel",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-806",
+    "label_en": "Youth Hostel",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-551",
+    "label_en": "Reception",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-89",
+    "label_en": "Car Showroom",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-684",
+    "label_en": "Studio",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-462",
+    "label_en": "Office with Simple Requirements",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-457",
+    "label_en": "Objects Of State Administration And Self-Government, Town Halls",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-709",
+    "label_en": "Telecoms Building",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-142",
+    "label_en": "Computer Suites",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-725",
+    "label_en": "Town Hall",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-51",
+    "label_en": "Bank",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-449",
+    "label_en": "Newstand",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-724",
+    "label_en": "Town Construction",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-127",
+    "label_en": "Coast Guard Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-168",
+    "label_en": "Customs Stations",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-730",
+    "label_en": "Training Centre",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-738",
+    "label_en": "Travel Centre",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-688",
+    "label_en": "Subway Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-228",
+    "label_en": "Ferry Terminal",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-741",
+    "label_en": "Trucking Centre",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-702",
+    "label_en": "Taxi Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-125",
+    "label_en": "Coach Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-769",
+    "label_en": "Wagon Hall",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-10",
+    "label_en": "Aircraft Hangar",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-714",
+    "label_en": "Terminal",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-587",
+    "label_en": "Road Transport Building",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-55",
+    "label_en": "Basement Garage",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-586",
+    "label_en": "Road Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-389",
+    "label_en": "Machine Hall",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-556",
+    "label_en": "Refuse Collection Point",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-679",
+    "label_en": "Storage & Transfer Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-90",
+    "label_en": "Car Testing Facility",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-187",
+    "label_en": "Directional Blasting System",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-22",
+    "label_en": "Antenna",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-638",
+    "label_en": "Signal & Telecommunication Facility",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-745",
+    "label_en": "TV Mast",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-538",
+    "label_en": "Radio Mast",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-47",
+    "label_en": "AXE-Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-399",
+    "label_en": "Media Building",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-132",
+    "label_en": "Command Centre",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-517",
+    "label_en": "Post Office",
+    "group_code": "BUG-COM",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-704",
+    "label_en": "Technical Room",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-305",
+    "label_en": "Heating Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-129",
+    "label_en": "Cold Central",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-65",
+    "label_en": "Boiler House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-470",
+    "label_en": "Oil Heating Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-774",
+    "label_en": "Waste Inceneration Facility",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-105",
+    "label_en": "Central Heating",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-279",
+    "label_en": "Gas-Fired Power Plant",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-308",
+    "label_en": "High-Voltage Transformer Station",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-723",
+    "label_en": "Tower",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-537",
+    "label_en": "Pylon",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-197",
+    "label_en": "Electric Vehicle Charging Point",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-380",
+    "label_en": "Lighting Tower",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-585",
+    "label_en": "Road Lighting",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-198",
+    "label_en": "Electricity Board",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-787",
+    "label_en": "Water Power Plant",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-716",
+    "label_en": "Textile Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-274",
+    "label_en": "Garden Centre",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-639",
+    "label_en": "Silo",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-289",
+    "label_en": "Grain Store",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-292",
+    "label_en": "Greenhouse",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-672",
+    "label_en": "Stables",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-100",
+    "label_en": "Cattery",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-379",
+    "label_en": "Light Industrial",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-802",
+    "label_en": "Wood Drying Plant",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-592",
+    "label_en": "Sawmill",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-354",
+    "label_en": "Joinery Shop",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-803",
+    "label_en": "Wood Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-103",
+    "label_en": "Cement Plant",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-284",
+    "label_en": "Glass Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-677",
+    "label_en": "Stone Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-477",
+    "label_en": "Ore and Mine Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-346",
+    "label_en": "Iron and Steel Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-49",
+    "label_en": "Bakery",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-130",
+    "label_en": "Cold Store",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-68",
+    "label_en": "Brewery",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-110",
+    "label_en": "Charcuterie",
+    "group_code": "BUG-RET",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-170",
+    "label_en": "Dairy",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-612",
+    "label_en": "Septic Tank",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-442",
+    "label_en": "Multistorey  Warehouse",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-554",
+    "label_en": "Recycling Facility",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-650",
+    "label_en": "Small Roof",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-621",
+    "label_en": "Shelter",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-558",
+    "label_en": "Refuse Handling Area",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-557",
+    "label_en": "Refuse Collection Room",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-382",
+    "label_en": "Loading  Bay",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-190",
+    "label_en": "Docking Bay",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-117",
+    "label_en": "Cistern",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-370",
+    "label_en": "Laundry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-472",
+    "label_en": "Oil Processing Facility",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-511",
+    "label_en": "Plastic Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-613",
+    "label_en": "Server Hall",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-199",
+    "label_en": "Electronic Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-207",
+    "label_en": "Engineering Industry",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-711",
+    "label_en": "Temporary Apartment",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-801",
+    "label_en": "Winter Garden",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-50",
+    "label_en": "Balcony Glazing",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-42",
+    "label_en": "Attic",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-524",
+    "label_en": "Prefabricated Garage",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-273",
+    "label_en": "Garage Parking",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-371",
+    "label_en": "Laundry Room",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-391",
+    "label_en": "Makeshift Dwelling",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-622",
+    "label_en": "Sheltered Housing",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-676",
+    "label_en": "Stepped Building House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-213",
+    "label_en": "Estate",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-411",
+    "label_en": "Military Accommodation",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-414",
+    "label_en": "Military Camp",
+    "group_code": "BUG-CCA",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-412",
+    "label_en": "Military Barracks",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-683",
+    "label_en": "Student Accommodation",
+    "group_code": "BUG-EDU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-553",
+    "label_en": "Recreational Facility",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-312",
+    "label_en": "Hobby Agricultural",
+    "group_code": "BUG-AGR",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-641",
+    "label_en": "Single Family Housing Estate",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-640",
+    "label_en": "Single Family House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-715",
+    "label_en": "Terraced House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-1",
+    "label_en": "2 Flats Family Houses",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-295",
+    "label_en": "Ground House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-182",
+    "label_en": "Detached House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-601",
+    "label_en": "Semi-detached House",
+    "group_code": "BUG-RES",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-798",
+    "label_en": "Widening/Adding Lanes",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-796",
+    "label_en": "Well",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-790",
+    "label_en": "Water Tower",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-788",
+    "label_en": "Water Supply",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-786",
+    "label_en": "Water Plant",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-784",
+    "label_en": "Water Lines Repair/Replace",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-783",
+    "label_en": "Water Line",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-778",
+    "label_en": "Wastewater",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-748",
+    "label_en": "Underground Internet Cabling",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-721",
+    "label_en": "Toll Booth",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-720",
+    "label_en": "Tide Gate",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-708",
+    "label_en": "Telecommunication",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-703",
+    "label_en": "Taxiway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-682",
+    "label_en": "Street Lighting",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-680",
+    "label_en": "Storage Tank",
+    "group_code": "BUG-IND",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-637",
+    "label_en": "Signage",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-619",
+    "label_en": "Sewer Main",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-618",
+    "label_en": "Sewer Lines Repair/Maintenance",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-617",
+    "label_en": "Sewer Line",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-597",
+    "label_en": "Sea Wall",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-589",
+    "label_en": "Runway",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-579",
+    "label_en": "Retaining Wall",
+    "group_code": "BUG-OTH",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-575",
+    "label_en": "Rest Area",
+    "group_code": "BUG-SPL",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-544",
+    "label_en": "Railroad",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-519",
+    "label_en": "Power",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-494",
+    "label_en": "Parking/Striping",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-486",
+    "label_en": "Overpass",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-448",
+    "label_en": "New Water Line",
+    "group_code": "BUG-ENU",
+    "record_type": "Project"
+  },
+  {
+    "canonical": "BU-447",
+    "label_en": "New Road",
+    "group_code": "BUG-INF",
+    "record_type": "Project"
+  }
+]

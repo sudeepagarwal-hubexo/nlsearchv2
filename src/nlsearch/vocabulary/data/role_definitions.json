@@ -1,0 +1,1898 @@
+[
+  {
+    "canonical": "OTH-022",
+    "label_en": "Procurement Office",
+    "group_code": "OTH",
+    "labels_i18n": "['Upphandlingskontor']"
+  },
+  {
+    "canonical": "ENG-019",
+    "label_en": "Electrical Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['El-konsult']"
+  },
+  {
+    "canonical": "ENG-040",
+    "label_en": "Hydraulic Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Hydrauliksingenj\u00f6r']"
+  },
+  {
+    "canonical": "MCT-005",
+    "label_en": "EPC Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['EPC-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-032",
+    "label_en": "Regulator",
+    "group_code": "DEV",
+    "labels_i18n": "['Tillsynsmyndighet']"
+  },
+  {
+    "canonical": "OTH-018",
+    "label_en": "Manufacturer",
+    "group_code": "OTH",
+    "labels_i18n": "['Tillverkare']"
+  },
+  {
+    "canonical": "MCT-004",
+    "label_en": "Design Builder",
+    "group_code": "MCT",
+    "labels_i18n": "['Totalentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-012",
+    "label_en": "Brickwork Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Mur-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-058",
+    "label_en": "Interior Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Inredningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-047",
+    "label_en": "Land Surveyor",
+    "group_code": "ENG",
+    "labels_i18n": "['Land Surveyor']"
+  },
+  {
+    "canonical": "SCT-095",
+    "label_en": "Rendering Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Rappningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-033",
+    "label_en": "Geotechnical Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Geoteknik-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "ARC-014",
+    "label_en": "Project Manager (design)",
+    "group_code": "ARC",
+    "labels_i18n": "['Projektledare (projektering)']"
+  },
+  {
+    "canonical": "SCT-042",
+    "label_en": "External Walls Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Ytterv\u00e4gg-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-021",
+    "label_en": "Operator",
+    "group_code": "DEV",
+    "labels_i18n": "['Operat\u00f6r']"
+  },
+  {
+    "canonical": "DEV-007",
+    "label_en": "Government Implementing Agency",
+    "group_code": "DEV",
+    "labels_i18n": "['Statlig genomf\u00f6randemyndighet']"
+  },
+  {
+    "canonical": "ENG-072",
+    "label_en": "Testing Laboratory",
+    "group_code": "ENG",
+    "labels_i18n": "['Provningslaboratorium']"
+  },
+  {
+    "canonical": "ENG-056",
+    "label_en": "Plumbing & Fire Protection Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['VS- och brandskyddsingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-014",
+    "label_en": "Building Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Byggentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-081",
+    "label_en": "Plant Hire Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Maskinuthyrningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-120",
+    "label_en": "Structural Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Konstruktionsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-023",
+    "label_en": "Project Programmer",
+    "group_code": "OTH",
+    "labels_i18n": "['Tidplanerare']"
+  },
+  {
+    "canonical": "DEV-022",
+    "label_en": "Owner",
+    "group_code": "DEV",
+    "labels_i18n": "['\u00c4gare']"
+  },
+  {
+    "canonical": "SCT-032",
+    "label_en": "Doors Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['D\u00f6rr-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-010",
+    "label_en": "Hotel Operator",
+    "group_code": "DEV",
+    "labels_i18n": "['Hotelloperat\u00f6r']"
+  },
+  {
+    "canonical": "ENG-041",
+    "label_en": "Hydrogeology Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Hydrogeologi-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-061",
+    "label_en": "Kitchens Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['K\u00f6ksentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-068",
+    "label_en": "Material Handling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Materialhanteringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-042",
+    "label_en": "Hydrology Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Hydrologi-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-078",
+    "label_en": "Waste Management Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Avfallshanteringskonsult']"
+  },
+  {
+    "canonical": "DEV-009",
+    "label_en": "Hotel Development Manager",
+    "group_code": "DEV",
+    "labels_i18n": "['Hotellutvecklingschef']"
+  },
+  {
+    "canonical": "SCT-121",
+    "label_en": "Structural Steel Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00e5lkonstruktionsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-017",
+    "label_en": "Managing Agent",
+    "group_code": "OTH",
+    "labels_i18n": "['F\u00f6rvaltningsombud']"
+  },
+  {
+    "canonical": "ENG-066",
+    "label_en": "Specifications",
+    "group_code": "ENG",
+    "labels_i18n": "['Beskrivningskonsult']"
+  },
+  {
+    "canonical": "SCT-002",
+    "label_en": "Air Conditioning Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Luftkonditioneringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-004",
+    "label_en": "BIM Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['BIM-konsult']"
+  },
+  {
+    "canonical": "ENG-064",
+    "label_en": "Soil Investigation Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Markunders\u00f6kningskonsult']"
+  },
+  {
+    "canonical": "OTH-028",
+    "label_en": "Supplier",
+    "group_code": "OTH",
+    "labels_i18n": "['Leverant\u00f6r']"
+  },
+  {
+    "canonical": "MCT-013",
+    "label_en": "Project Manager (construction)",
+    "group_code": "MCT",
+    "labels_i18n": "['Projektledare (bygg)']"
+  },
+  {
+    "canonical": "SCT-113",
+    "label_en": "Stairs & Balustrades Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Trapp- och r\u00e4ckesentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-057",
+    "label_en": "Insulation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Isoleringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-001",
+    "label_en": "Architect",
+    "group_code": "ARC",
+    "labels_i18n": "['Arkitekt']"
+  },
+  {
+    "canonical": "SCT-006",
+    "label_en": "Balustrades Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['R\u00e4ckesentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-071",
+    "label_en": "Metalwork Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Metallarbetsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-002",
+    "label_en": "Client",
+    "group_code": "DEV",
+    "labels_i18n": "['Best\u00e4llare']"
+  },
+  {
+    "canonical": "ENG-025",
+    "label_en": "Environmental Impact Assessment",
+    "group_code": "ENG",
+    "labels_i18n": "['Milj\u00f6konsekvensbeskrivning']"
+  },
+  {
+    "canonical": "SCT-041",
+    "label_en": "Escalator Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Rulltrappsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-015",
+    "label_en": "Design Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Projekteringsingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-080",
+    "label_en": "Wind Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Vind-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-031",
+    "label_en": "Diving Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Dyk-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-031",
+    "label_en": "Front-End Engineering Design Contractor",
+    "group_code": "ENG",
+    "labels_i18n": "['FEED-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-012",
+    "label_en": "ICT Manager",
+    "group_code": "DEV",
+    "labels_i18n": "['IKT-chef']"
+  },
+  {
+    "canonical": "DEV-038",
+    "label_en": "Tender Office",
+    "group_code": "DEV",
+    "labels_i18n": "['Anbudskontor']"
+  },
+  {
+    "canonical": "SCT-055",
+    "label_en": "Heating, Ventilation & Air Conditioning Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['VVS- och luftkonditioneringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-036",
+    "label_en": "Temporary Promoter",
+    "group_code": "DEV",
+    "labels_i18n": "['Tillf\u00e4llig byggherre']"
+  },
+  {
+    "canonical": "SCT-056",
+    "label_en": "Information Technology Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['IT-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-073",
+    "label_en": "Mounting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Monteringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-013",
+    "label_en": "Health Planner",
+    "group_code": "OTH",
+    "labels_i18n": "['V\u00e5rdplanerare']"
+  },
+  {
+    "canonical": "DEV-023",
+    "label_en": "Port Operator",
+    "group_code": "DEV",
+    "labels_i18n": "['Hamnoperat\u00f6r']"
+  },
+  {
+    "canonical": "ENG-002",
+    "label_en": "Acoustic Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Akustik-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-089",
+    "label_en": "Railway Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['J\u00e4rnv\u00e4gsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-007",
+    "label_en": "Landscape Architect",
+    "group_code": "ARC",
+    "labels_i18n": "['Landskapsarkitekt']"
+  },
+  {
+    "canonical": "ARC-006",
+    "label_en": "Interior Designer",
+    "group_code": "ARC",
+    "labels_i18n": "['Inredningsarkitekt']"
+  },
+  {
+    "canonical": "ENG-038",
+    "label_en": "Heating, Ventilation & Air Conditioning Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['VVS- och luftkonditioneringsingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-054",
+    "label_en": "Heating Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['V\u00e4rme-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-062",
+    "label_en": "Landscape Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Landskapsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-104",
+    "label_en": "Show-unit Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Visningsrumsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-099",
+    "label_en": "Roofing Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Tak-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-006",
+    "label_en": "Building Surveyor",
+    "group_code": "ENG",
+    "labels_i18n": "['Building Surveyor']"
+  },
+  {
+    "canonical": "ENG-001",
+    "label_en": "Acoustic Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Akustik-konsult']"
+  },
+  {
+    "canonical": "ENG-014",
+    "label_en": "Demolition Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Rivningskonsult']"
+  },
+  {
+    "canonical": "ENG-054",
+    "label_en": "Paint Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['M\u00e5leri-konsult']"
+  },
+  {
+    "canonical": "DEV-040",
+    "label_en": "Advisor",
+    "group_code": "DEV",
+    "labels_i18n": "['R\u00e5dgivare']"
+  },
+  {
+    "canonical": "SCT-080",
+    "label_en": "Piping Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['R\u00f6r-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-037",
+    "label_en": "Tenant",
+    "group_code": "DEV",
+    "labels_i18n": "['Hyresg\u00e4st']"
+  },
+  {
+    "canonical": "ARC-008",
+    "label_en": "Landscape Consultant",
+    "group_code": "ARC",
+    "labels_i18n": "['Landskapskonsult']"
+  },
+  {
+    "canonical": "SCT-020",
+    "label_en": "Ceiling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Innertaksentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-097",
+    "label_en": "Retaining Walls Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00f6dmur-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-101",
+    "label_en": "Screeding Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Avj\u00e4mningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-005",
+    "label_en": "Drone Services",
+    "group_code": "OTH",
+    "labels_i18n": "['Dr\u00f6nartj\u00e4nster']"
+  },
+  {
+    "canonical": "DEV-011",
+    "label_en": "Housing Company",
+    "group_code": "DEV",
+    "labels_i18n": "['Bostadsbolag']"
+  },
+  {
+    "canonical": "SCT-090",
+    "label_en": "Reclamation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Mark\u00e5ter-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-128",
+    "label_en": "Tensile Structure Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Sp\u00e4nnkonstruktionsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-003",
+    "label_en": "Concessionaire",
+    "group_code": "DEV",
+    "labels_i18n": "['Koncessionsinnehavare']"
+  },
+  {
+    "canonical": "ARC-009",
+    "label_en": "Lead Consultant",
+    "group_code": "ARC",
+    "labels_i18n": "['Generalkonsult']"
+  },
+  {
+    "canonical": "ENG-008",
+    "label_en": "Civil Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Mark- och anl\u00e4ggningskonsult']"
+  },
+  {
+    "canonical": "OTH-010",
+    "label_en": "Financial Consultant",
+    "group_code": "OTH",
+    "labels_i18n": "['Finanskonsult']"
+  },
+  {
+    "canonical": "ENG-043",
+    "label_en": "Infrastructure Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Infrastruktur-konsult']"
+  },
+  {
+    "canonical": "SCT-043",
+    "label_en": "Facade Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Fasad-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-009",
+    "label_en": "Facilities Manager",
+    "group_code": "OTH",
+    "labels_i18n": "['F\u00f6rvaltare']"
+  },
+  {
+    "canonical": "SCT-063",
+    "label_en": "Lift Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Hissentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-051",
+    "label_en": "Foundation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Grundl\u00e4ggningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-013",
+    "label_en": "Investor",
+    "group_code": "DEV",
+    "labels_i18n": "['Investerare']"
+  },
+  {
+    "canonical": "DEV-024",
+    "label_en": "Pre-Qualification Office",
+    "group_code": "DEV",
+    "labels_i18n": "['Prekvalificeringskontor']"
+  },
+  {
+    "canonical": "DEV-029",
+    "label_en": "Property Advisor",
+    "group_code": "DEV",
+    "labels_i18n": "['Fastighetsr\u00e5dgivare']"
+  },
+  {
+    "canonical": "ARC-002",
+    "label_en": "Conceptual Designer",
+    "group_code": "ARC",
+    "labels_i18n": "['Konceptformgivare']"
+  },
+  {
+    "canonical": "ENG-009",
+    "label_en": "Civil Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Mark- och anl\u00e4ggningsingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-022",
+    "label_en": "Energy Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Energi-konsult']"
+  },
+  {
+    "canonical": "MCT-007",
+    "label_en": "General Builder",
+    "group_code": "MCT",
+    "labels_i18n": "['Generalbyggare']"
+  },
+  {
+    "canonical": "SCT-059",
+    "label_en": "Internal Walls Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Innerv\u00e4gg-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "MCT-014",
+    "label_en": "Site Office",
+    "group_code": "MCT",
+    "labels_i18n": "['Platskontor']"
+  },
+  {
+    "canonical": "DEV-014",
+    "label_en": "Land Development Consultant",
+    "group_code": "DEV",
+    "labels_i18n": "['Markutvecklingskonsult']"
+  },
+  {
+    "canonical": "ENG-039",
+    "label_en": "Highway Consultants",
+    "group_code": "ENG",
+    "labels_i18n": "['V\u00e4g-konsulter']"
+  },
+  {
+    "canonical": "SCT-026",
+    "label_en": "Conservatory Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Uterumsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-029",
+    "label_en": "Demolition Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Rivningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-037",
+    "label_en": "Ducting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Ventilationsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-125",
+    "label_en": "Superstructure Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Stom-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "MCT-009",
+    "label_en": "Main Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Huvudentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-117",
+    "label_en": "Stonework Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Natursten-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-053",
+    "label_en": "Mining Feasibility Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Gruvdriftsf\u00f6rstudie-konsult']"
+  },
+  {
+    "canonical": "ENG-063",
+    "label_en": "Site Investigation",
+    "group_code": "ENG",
+    "labels_i18n": "['Markunders\u00f6kning']"
+  },
+  {
+    "canonical": "OTH-008",
+    "label_en": "Equipment Planner",
+    "group_code": "OTH",
+    "labels_i18n": "['Utrustningsplanerare']"
+  },
+  {
+    "canonical": "ARC-003",
+    "label_en": "Design Consultant",
+    "group_code": "ARC",
+    "labels_i18n": "['Designkonsult']"
+  },
+  {
+    "canonical": "ENG-070",
+    "label_en": "Structural Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Konstruktionsingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-013",
+    "label_en": "Bridge Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Bro-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-011",
+    "label_en": "Planning Advisor",
+    "group_code": "ARC",
+    "labels_i18n": "['Planr\u00e5dgivare']"
+  },
+  {
+    "canonical": "SCT-108",
+    "label_en": "Site Formation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Markberedningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-021",
+    "label_en": "Procurement Manager",
+    "group_code": "OTH",
+    "labels_i18n": "['Upphandlingschef']"
+  },
+  {
+    "canonical": "ENG-027",
+    "label_en": "Facade Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Fasad-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "OTH-027",
+    "label_en": "Solicitor",
+    "group_code": "OTH",
+    "labels_i18n": "['Jurist']"
+  },
+  {
+    "canonical": "MCT-002",
+    "label_en": "Construction Manager",
+    "group_code": "MCT",
+    "labels_i18n": "['Byggchef']"
+  },
+  {
+    "canonical": "SCT-046",
+    "label_en": "Fire Prevention Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Brandf\u00f6rebyggande-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-051",
+    "label_en": "Mechanical & Electrical Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['El- och mekan-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-072",
+    "label_en": "Modular Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Modul-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-011",
+    "label_en": "Consulting Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Konsulterande ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-127",
+    "label_en": "Telecommunications Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Telekommunikationsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-076",
+    "label_en": "Transport Consultants",
+    "group_code": "ENG",
+    "labels_i18n": "['Transport-konsulter']"
+  },
+  {
+    "canonical": "DEV-004",
+    "label_en": "Developer",
+    "group_code": "DEV",
+    "labels_i18n": "['Exploat\u00f6r']"
+  },
+  {
+    "canonical": "ENG-037",
+    "label_en": "Heating Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['V\u00e4rme-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-074",
+    "label_en": "Traffic Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Trafik-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-131",
+    "label_en": "Traffic Management Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Trafikledarskapsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-030",
+    "label_en": "Property Manager",
+    "group_code": "DEV",
+    "labels_i18n": "['Fastighetsf\u00f6rvaltare']"
+  },
+  {
+    "canonical": "SCT-008",
+    "label_en": "Blasting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Spr\u00e4ngningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-034",
+    "label_en": "Supervisor",
+    "group_code": "DEV",
+    "labels_i18n": "['Kontrollansvarig']"
+  },
+  {
+    "canonical": "SCT-085",
+    "label_en": "Post Tensioning Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Eftersp\u00e4nningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-017",
+    "label_en": "Lessee",
+    "group_code": "DEV",
+    "labels_i18n": "['Hyrestagare']"
+  },
+  {
+    "canonical": "ENG-030",
+    "label_en": "Fire Protection Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Brandskydd-konsult']"
+  },
+  {
+    "canonical": "OTH-015",
+    "label_en": "Human Resources",
+    "group_code": "OTH",
+    "labels_i18n": "['Personalfunktion']"
+  },
+  {
+    "canonical": "ENG-020",
+    "label_en": "Electrical Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['El-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-058",
+    "label_en": "Quality Controller",
+    "group_code": "ENG",
+    "labels_i18n": "['Kvalitetskontrollant']"
+  },
+  {
+    "canonical": "DEV-015",
+    "label_en": "Land Owner",
+    "group_code": "DEV",
+    "labels_i18n": "['Mark\u00e4gare']"
+  },
+  {
+    "canonical": "SCT-003",
+    "label_en": "Asphalting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Asfalteringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-047",
+    "label_en": "Fire Protection Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Brandskydd-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-102",
+    "label_en": "Security Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['S\u00e4kerhetsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-083",
+    "label_en": "Plaster & Render Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Puts- och rappningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-027",
+    "label_en": "Project Manager",
+    "group_code": "DEV",
+    "labels_i18n": "['Projektledare']"
+  },
+  {
+    "canonical": "ENG-075",
+    "label_en": "Traffic Engineering Assessment",
+    "group_code": "ENG",
+    "labels_i18n": "['Trafikutredning']"
+  },
+  {
+    "canonical": "OTH-006",
+    "label_en": "Unmapped",
+    "group_code": "OTH",
+    "labels_i18n": "['Ej klassificerad']"
+  },
+  {
+    "canonical": "DEV-028",
+    "label_en": "Promoter",
+    "group_code": "DEV",
+    "labels_i18n": "['Byggherre']"
+  },
+  {
+    "canonical": "OTH-019",
+    "label_en": "Plankeeper (from Bid Ocean)",
+    "group_code": "OTH",
+    "labels_i18n": "['Plankeeper (Bid Ocean)']"
+  },
+  {
+    "canonical": "SCT-065",
+    "label_en": "Marble Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Marmor-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-137",
+    "label_en": "Windows Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['F\u00f6nster-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-014",
+    "label_en": "Hotel Contact",
+    "group_code": "OTH",
+    "labels_i18n": "['Hotellkontakt']"
+  },
+  {
+    "canonical": "ENG-046",
+    "label_en": "Kitchen Equipment Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['K\u00f6ksutrustningsingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-052",
+    "label_en": "Mechanical Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Mekan-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "MCT-006",
+    "label_en": "EPCM Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['EPCM-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-068",
+    "label_en": "Stormwater Management Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Dagvatten-konsult']"
+  },
+  {
+    "canonical": "SCT-023",
+    "label_en": "Cladding Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Fasadbekl\u00e4dnadsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-002",
+    "label_en": "Construction Advisor",
+    "group_code": "OTH",
+    "labels_i18n": "['Byggr\u00e5dgivare']"
+  },
+  {
+    "canonical": "MCT-008",
+    "label_en": "Land Development Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Markexploateringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-071",
+    "label_en": "Sunlight Assessment",
+    "group_code": "ENG",
+    "labels_i18n": "['Solstudie']"
+  },
+  {
+    "canonical": "OTH-020",
+    "label_en": "Premises Manager",
+    "group_code": "OTH",
+    "labels_i18n": "['Lokalansvarig']"
+  },
+  {
+    "canonical": "OTH-007",
+    "label_en": "Equipment Hire Services",
+    "group_code": "OTH",
+    "labels_i18n": "['Maskinuthyrning']"
+  },
+  {
+    "canonical": "DEV-006",
+    "label_en": "Funding Organisation",
+    "group_code": "DEV",
+    "labels_i18n": "['Finansieringsorgan']"
+  },
+  {
+    "canonical": "SCT-052",
+    "label_en": "Frame Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Stom-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-078",
+    "label_en": "Piling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['P\u00e5lningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-031",
+    "label_en": "Proponent",
+    "group_code": "DEV",
+    "labels_i18n": "['F\u00f6rslagsst\u00e4llare']"
+  },
+  {
+    "canonical": "SCT-036",
+    "label_en": "Dry Lining Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Gipsningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-105",
+    "label_en": "Signage Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Skyltningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-075",
+    "label_en": "Partitioning Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Partitionsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-015",
+    "label_en": "Urban & Regional Planner",
+    "group_code": "ARC",
+    "labels_i18n": "['Stads- och regionplanerare']"
+  },
+  {
+    "canonical": "OTH-016",
+    "label_en": "Legal Consultant",
+    "group_code": "OTH",
+    "labels_i18n": "['Juridisk konsult']"
+  },
+  {
+    "canonical": "SCT-040",
+    "label_en": "Electrical Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['El-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-049",
+    "label_en": "Lift Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Hissingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-010",
+    "label_en": "Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Konsult']"
+  },
+  {
+    "canonical": "SCT-112",
+    "label_en": "Staircases Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Trapp-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-026",
+    "label_en": "Retained Agent",
+    "group_code": "OTH",
+    "labels_i18n": "['Ramavtalsombud']"
+  },
+  {
+    "canonical": "SCT-126",
+    "label_en": "Swimming Pool Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Simbass\u00e4ng-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-008",
+    "label_en": "Hospital Operator",
+    "group_code": "DEV",
+    "labels_i18n": "['Sjukhusoperat\u00f6r']"
+  },
+  {
+    "canonical": "ENG-073",
+    "label_en": "Theatre Consultants",
+    "group_code": "ENG",
+    "labels_i18n": "['Teater-konsulter']"
+  },
+  {
+    "canonical": "SCT-025",
+    "label_en": "Concrete Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Betong-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-009",
+    "label_en": "Blockwork Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Blockmurningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-033",
+    "label_en": "School Operator",
+    "group_code": "DEV",
+    "labels_i18n": "['Skoloperat\u00f6r']"
+  },
+  {
+    "canonical": "MCT-003",
+    "label_en": "Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-013",
+    "label_en": "Cost Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Kalkyl-konsult']"
+  },
+  {
+    "canonical": "ENG-018",
+    "label_en": "Economic Development Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Ekonomisk utvecklingskonsult']"
+  },
+  {
+    "canonical": "SCT-038",
+    "label_en": "Dynamic Compaction Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Dynamisk packningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-048",
+    "label_en": "Leisure Services Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Fritidskonsult']"
+  },
+  {
+    "canonical": "ENG-057",
+    "label_en": "Public Health Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Sanitetskonsult']"
+  },
+  {
+    "canonical": "SCT-076",
+    "label_en": "Paving Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Sten- och asfalt-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-136",
+    "label_en": "Waterproofing Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Vattenisoleringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-069",
+    "label_en": "Mechanical & Electrical Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['El- och mekan-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-011",
+    "label_en": "Brick & Block Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Tegel- och block-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-020",
+    "label_en": "Occupier/End User",
+    "group_code": "DEV",
+    "labels_i18n": "['Nyttjare/slutanv\u00e4ndare']"
+  },
+  {
+    "canonical": "ENG-059",
+    "label_en": "Quantity Surveyor",
+    "group_code": "ENG",
+    "labels_i18n": "['Kalkylkonsult']"
+  },
+  {
+    "canonical": "SCT-122",
+    "label_en": "Structured Cabling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Strukturerat kablage-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-129",
+    "label_en": "Tiling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Platts\u00e4ttningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-021",
+    "label_en": "Electronics and Communication Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Elektronik- och kommunikationsingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-028",
+    "label_en": "Feasibility Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['F\u00f6rstudie-konsult']"
+  },
+  {
+    "canonical": "SCT-019",
+    "label_en": "Catering Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Catering-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-012",
+    "label_en": "Green Building Assessor",
+    "group_code": "OTH",
+    "labels_i18n": "['Milj\u00f6byggnadscertifierare']"
+  },
+  {
+    "canonical": "SCT-028",
+    "label_en": "Curtain Wall Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Glasfasad-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-115",
+    "label_en": "Steel Frame Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00e5lstom-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "MCT-010",
+    "label_en": "Maintenance Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Underh\u00e5llsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-111",
+    "label_en": "Sports & Leisure Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Sport- och fritidsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-003",
+    "label_en": "Construction Segment Manager",
+    "group_code": "OTH",
+    "labels_i18n": "['Segmentchef bygg']"
+  },
+  {
+    "canonical": "DEV-025",
+    "label_en": "Project Coordinator",
+    "group_code": "DEV",
+    "labels_i18n": "['Projektkoordinator']"
+  },
+  {
+    "canonical": "OTH-024",
+    "label_en": "Public Relations",
+    "group_code": "OTH",
+    "labels_i18n": "['PR']"
+  },
+  {
+    "canonical": "ENG-079",
+    "label_en": "Water & Sewerage Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Vatten- och avloppskonsult']"
+  },
+  {
+    "canonical": "SCT-001",
+    "label_en": "Acoustic Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Akustik-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-001",
+    "label_en": "Building Certifier",
+    "group_code": "OTH",
+    "labels_i18n": "['Byggcertifierare']"
+  },
+  {
+    "canonical": "ENG-024",
+    "label_en": "Environmental Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Milj\u00f6-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-004",
+    "label_en": "Audiovisual Systems Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['AV-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-069",
+    "label_en": "Structural Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Konstruktionskonsult']"
+  },
+  {
+    "canonical": "SCT-088",
+    "label_en": "Process Pipe Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Processr\u00f6r-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-135",
+    "label_en": "Water Supply Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Vattenf\u00f6rs\u00f6rjningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-029",
+    "label_en": "Tenderrole  Parabyg",
+    "group_code": "OTH",
+    "labels_i18n": "['Anbudsroll Parabyg']"
+  },
+  {
+    "canonical": "ENG-016",
+    "label_en": "Drainage Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Avloppsingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-110",
+    "label_en": "Solar Panels Installation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Solcellsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-134",
+    "label_en": "Walling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['V\u00e4gg-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-004",
+    "label_en": "Designer",
+    "group_code": "ARC",
+    "labels_i18n": "['Formgivare']"
+  },
+  {
+    "canonical": "DEV-019",
+    "label_en": "Marketing Agent",
+    "group_code": "DEV",
+    "labels_i18n": "['Marknadsf\u00f6ringsagent']"
+  },
+  {
+    "canonical": "SCT-030",
+    "label_en": "Diaphragm Wall Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Diafragmav\u00e4gg-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-086",
+    "label_en": "Pre-Construction Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['F\u00f6rbygg-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-026",
+    "label_en": "ESD Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['H\u00e5llbarhetskonsult']"
+  },
+  {
+    "canonical": "SCT-027",
+    "label_en": "Control & Regulation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Styr- och regler-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-107",
+    "label_en": "Site Enablement Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Markiordningst\u00e4llningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-025",
+    "label_en": "Relocation Consultant",
+    "group_code": "OTH",
+    "labels_i18n": "['Flyttkonsult']"
+  },
+  {
+    "canonical": "SCT-044",
+    "label_en": "Fa\u00e7ade Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Fasad-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-114",
+    "label_en": "Steel Fabrication Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00e5lkonstruktionsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-130",
+    "label_en": "Total FM Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Fastighetsf\u00f6rvaltningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-094",
+    "label_en": "Reinforcing Steel Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Armeringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-060",
+    "label_en": "Refrigeration Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Kyl-konsult']"
+  },
+  {
+    "canonical": "SCT-066",
+    "label_en": "Masonry Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Mur-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-092",
+    "label_en": "Refuse Disposal Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Avfallsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-017",
+    "label_en": "Bulking Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Massuppfyllningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-060",
+    "label_en": "Ironworks Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['J\u00e4rn-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-034",
+    "label_en": "Golfcourse Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Golfbane-konsult']"
+  },
+  {
+    "canonical": "SCT-007",
+    "label_en": "Barriers Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Barri\u00e4r-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-045",
+    "label_en": "IT Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['IT-konsult']"
+  },
+  {
+    "canonical": "ENG-077",
+    "label_en": "Ventilation Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Ventilationsingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-082",
+    "label_en": "Plant Subcontractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Plant Subcontractor']"
+  },
+  {
+    "canonical": "OTH-011",
+    "label_en": "Government Authority",
+    "group_code": "OTH",
+    "labels_i18n": "['Myndighet']"
+  },
+  {
+    "canonical": "SCT-106",
+    "label_en": "Site Clearance Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Markr\u00f6jningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-029",
+    "label_en": "Fire Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Brand-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-118",
+    "label_en": "Storage Tanks Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Lagringstank-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-109",
+    "label_en": "Site Works Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Markarbetsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-010",
+    "label_en": "Boring Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Borrningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-039",
+    "label_en": "Earthworks & Excavation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Mark- och schakt-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-013",
+    "label_en": "Plans By",
+    "group_code": "ARC",
+    "labels_i18n": "['Uppr\u00e4ttad av']"
+  },
+  {
+    "canonical": "ENG-003",
+    "label_en": "Archaeology Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Arkeologi-konsult']"
+  },
+  {
+    "canonical": "SCT-034",
+    "label_en": "Dredging Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Muddringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-096",
+    "label_en": "Renovation Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Renoveringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-024",
+    "label_en": "Cleaning Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00e4d-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-067",
+    "label_en": "Mastic Joining Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Fogningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-016",
+    "label_en": "Leasing Agent",
+    "group_code": "DEV",
+    "labels_i18n": "['Uthyrningsagent']"
+  },
+  {
+    "canonical": "SCT-103",
+    "label_en": "Sewerage Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Avloppsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-119",
+    "label_en": "Street Lighting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Gatubelysningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-074",
+    "label_en": "Paint Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['M\u00e5leri-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-098",
+    "label_en": "Roadwork Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['V\u00e4gbyggnadsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-035",
+    "label_en": "Green Building Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Milj\u00f6byggnadskonsult']"
+  },
+  {
+    "canonical": "SCT-079",
+    "label_en": "Pipeline & Subsea Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['R\u00f6rlednings- och undervattensentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-023",
+    "label_en": "Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Ingenj\u00f6r']"
+  },
+  {
+    "canonical": "ENG-012",
+    "label_en": "Control & Regulation Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Styr- och regler-konsult']"
+  },
+  {
+    "canonical": "ENG-061",
+    "label_en": "Sanitary & Plumbing Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Sanitets- och VS-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "SCT-016",
+    "label_en": "Building Systems Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Byggsystemsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-018",
+    "label_en": "Loan Agency",
+    "group_code": "DEV",
+    "labels_i18n": "['L\u00e5negivare']"
+  },
+  {
+    "canonical": "SCT-077",
+    "label_en": "Pest Control Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Skadedjursentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-064",
+    "label_en": "Lighting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Belysningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-133",
+    "label_en": "Underpinning Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Grundf\u00f6rst\u00e4rkningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-065",
+    "label_en": "Specialized Training Construction Consultant?",
+    "group_code": "ENG",
+    "labels_i18n": "['Utbildningskonsult bygg']"
+  },
+  {
+    "canonical": "MCT-011",
+    "label_en": "Managing Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Byggledande entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-015",
+    "label_en": "Building Services Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Installationsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-018",
+    "label_en": "Carpentry & Joinery Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Snickeri- och m\u00f6bel-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-010",
+    "label_en": "Master Planner",
+    "group_code": "ARC",
+    "labels_i18n": "['\u00d6versiktsplanerare']"
+  },
+  {
+    "canonical": "ENG-062",
+    "label_en": "Security Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['S\u00e4kerhetskonsult']"
+  },
+  {
+    "canonical": "DEV-001",
+    "label_en": "Agent",
+    "group_code": "DEV",
+    "labels_i18n": "['Ombud']"
+  },
+  {
+    "canonical": "ENG-005",
+    "label_en": "Building Services Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Installationsingenj\u00f6r']"
+  },
+  {
+    "canonical": "MCT-012",
+    "label_en": "Prime Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Huvudentrepren\u00f6r (prime)']"
+  },
+  {
+    "canonical": "SCT-050",
+    "label_en": "Formwork Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Form-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-132",
+    "label_en": "Treatment Plant Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Behandlingsverksentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-005",
+    "label_en": "Development Consultants",
+    "group_code": "DEV",
+    "labels_i18n": "['Utvecklingskonsulter']"
+  },
+  {
+    "canonical": "DEV-039",
+    "label_en": "Project Contact",
+    "group_code": "DEV",
+    "labels_i18n": "['Projektkontakt']"
+  },
+  {
+    "canonical": "SCT-116",
+    "label_en": "Steelwork Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00e5larbetsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ARC-005",
+    "label_en": "Facade Consultant",
+    "group_code": "ARC",
+    "labels_i18n": "['Fasadkonsult']"
+  },
+  {
+    "canonical": "MCT-015",
+    "label_en": "Turnkey Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Totalentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-100",
+    "label_en": "Scaffolding Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['St\u00e4llningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "DEV-026",
+    "label_en": "Project Group Lead",
+    "group_code": "DEV",
+    "labels_i18n": "['Projektgruppsledare']"
+  },
+  {
+    "canonical": "DEV-035",
+    "label_en": "Supervisory Consultant",
+    "group_code": "DEV",
+    "labels_i18n": "['Kontrollkonsult']"
+  },
+  {
+    "canonical": "SCT-048",
+    "label_en": "Fitout Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Fitout-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-022",
+    "label_en": "Civil Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Mark- och anl\u00e4ggningsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "OTH-004",
+    "label_en": "Distributor",
+    "group_code": "OTH",
+    "labels_i18n": "['Distribut\u00f6r']"
+  },
+  {
+    "canonical": "ENG-007",
+    "label_en": "Civil & Structural Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Civil- och konstruktionsingenj\u00f6r']"
+  },
+  {
+    "canonical": "ARC-012",
+    "label_en": "Planning Consultant",
+    "group_code": "ARC",
+    "labels_i18n": "['Planarkitekt']"
+  },
+  {
+    "canonical": "SCT-021",
+    "label_en": "Central Vacuum System Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Centraldammsug-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-032",
+    "label_en": "Geologics Engineer",
+    "group_code": "ENG",
+    "labels_i18n": "['Geologi-ingenj\u00f6r']"
+  },
+  {
+    "canonical": "MCT-001",
+    "label_en": "Building Contractor",
+    "group_code": "MCT",
+    "labels_i18n": "['Byggentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-049",
+    "label_en": "Flooring Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Golv-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-070",
+    "label_en": "Mechanical Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Mekan-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-123",
+    "label_en": "Subcontractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Underentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-091",
+    "label_en": "Refrigeration Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Kyl-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-036",
+    "label_en": "Health & Safety Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Arbetsmilj\u00f6-konsult']"
+  },
+  {
+    "canonical": "SCT-087",
+    "label_en": "Precast Units Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Prefab-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-050",
+    "label_en": "Lighting Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Belysningskonsult']"
+  },
+  {
+    "canonical": "SCT-035",
+    "label_en": "Drilling Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Borr-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-093",
+    "label_en": "Reinforced Concrete Work Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Armerad betong-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-044",
+    "label_en": "Intelligent Building Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Smart byggnadskonsult']"
+  },
+  {
+    "canonical": "SCT-045",
+    "label_en": "Fencing Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Staket-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-033",
+    "label_en": "Drainage Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Avloppsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-053",
+    "label_en": "Grouting Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Injekteringsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-084",
+    "label_en": "Plumbing & Sanitary Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['VS- och sanitetsentrepren\u00f6r']"
+  },
+  {
+    "canonical": "ENG-017",
+    "label_en": "Ecological Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Ekologisk-konsult']"
+  },
+  {
+    "canonical": "ENG-067",
+    "label_en": "Sports Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['Sport-konsult']"
+  },
+  {
+    "canonical": "ENG-055",
+    "label_en": "Pipeline Consultant",
+    "group_code": "ENG",
+    "labels_i18n": "['R\u00f6rledningskonsult']"
+  },
+  {
+    "canonical": "SCT-005",
+    "label_en": "Balcony Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Balkong-entrepren\u00f6r']"
+  },
+  {
+    "canonical": "SCT-124",
+    "label_en": "Substructure Contractor",
+    "group_code": "SCT",
+    "labels_i18n": "['Grundl\u00e4ggningsentrepren\u00f6r']"
+  }
+]

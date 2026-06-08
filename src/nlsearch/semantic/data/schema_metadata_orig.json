@@ -1,0 +1,2253 @@
+{
+  "building_use_definitions": {
+    "table": "building_use_definitions",
+    "description": "europe_prod_catalog.mimir_model_gold.building_use_definitions (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.building_use_definitions",
+    "columns": [
+      {
+        "name": "building_use_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "superset_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "building_use_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "building_use_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "record_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "used_count",
+        "type": "int",
+        "description": ""
+      }
+    ]
+  },
+  "building_use_groups": {
+    "table": "building_use_groups",
+    "description": "europe_prod_catalog.mimir_model_gold.building_use_groups (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.building_use_groups",
+    "columns": [
+      {
+        "name": "building_use_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "building_use_group_name",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "contract_stage_translations": {
+    "table": "contract_stage_translations",
+    "description": "europe_prod_catalog.mimir_model_gold.contract_stage_translations (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.contract_stage_translations",
+    "columns": [
+      {
+        "name": "contract_stage_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "contract_stage_translations_synced": {
+    "table": "contract_stage_translations_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.contract_stage_translations_synced",
+    "columns": [
+      {
+        "name": "contract_stage_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "contract_stages": {
+    "table": "contract_stages",
+    "description": "europe_prod_catalog.mimir_model_gold.contract_stages (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.contract_stages",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "key",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "contract_stages_synced": {
+    "table": "contract_stages_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.contract_stages_synced",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "key",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "contract_types": {
+    "table": "contract_types",
+    "description": "europe_prod_catalog.mimir_model_gold.contract_types (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.contract_types",
+    "columns": [
+      {
+        "name": "contract_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "deferred",
+        "type": "boolean",
+        "description": ""
+      }
+    ]
+  },
+  "development_types": {
+    "table": "development_types",
+    "description": "europe_prod_catalog.mimir_model_gold.development_types (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.development_types",
+    "columns": [
+      {
+        "name": "development_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "document_types": {
+    "table": "document_types",
+    "description": "europe_prod_catalog.mimir_model_gold.document_types (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.document_types",
+    "columns": [
+      {
+        "name": "document_type_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "green_building_definitions": {
+    "table": "green_building_definitions",
+    "description": "europe_prod_catalog.mimir_model_gold.green_building_definitions (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.green_building_definitions",
+    "columns": [
+      {
+        "name": "field_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "workbook_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "field_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "green_building_schemes": {
+    "table": "green_building_schemes",
+    "description": "europe_prod_catalog.mimir_model_gold.green_building_schemes (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.green_building_schemes",
+    "columns": [
+      {
+        "name": "scheme_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "scheme_name",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "languages": {
+    "table": "languages",
+    "description": "europe_prod_catalog.mimir_model_gold.languages (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.languages",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "iso_693_1_alpha2_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "iso_639_3_alpha3_code",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "languages_synced": {
+    "table": "languages_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.languages_synced",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "iso_693_1_alpha2_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "iso_639_3_alpha3_code",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "material_definitions": {
+    "table": "material_definitions",
+    "description": "europe_prod_catalog.mimir_model_gold.material_definitions (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.material_definitions",
+    "columns": [
+      {
+        "name": "material_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "superset_code",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "material_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "location",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "function_form",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "material_substance",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "material_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "editorial_notes",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "material_groups": {
+    "table": "material_groups",
+    "description": "europe_prod_catalog.mimir_model_gold.material_groups (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.material_groups",
+    "columns": [
+      {
+        "name": "material_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "item_count",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "cleanup_status",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "ownership_types": {
+    "table": "ownership_types",
+    "description": "europe_prod_catalog.mimir_model_gold.ownership_types (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.ownership_types",
+    "columns": [
+      {
+        "name": "ownership_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "ownership_level",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "planning_stage_translations": {
+    "table": "planning_stage_translations",
+    "description": "europe_prod_catalog.mimir_model_gold.planning_stage_translations (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.planning_stage_translations",
+    "columns": [
+      {
+        "name": "planning_stage_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "planning_stage_translations_synced": {
+    "table": "planning_stage_translations_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.planning_stage_translations_synced",
+    "columns": [
+      {
+        "name": "planning_stage_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "planning_stages": {
+    "table": "planning_stages",
+    "description": "europe_prod_catalog.mimir_model_gold.planning_stages (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.planning_stages",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "key",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "planning_stages_synced": {
+    "table": "planning_stages_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.planning_stages_synced",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "key",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "project_building_uses": {
+    "table": "project_building_uses",
+    "description": "Building-use tags per project (1:many). One row per (project, building-use category). project_fields.building_use_code is the denormalised primary — i.e. the is_primary = TRUE row here. RSM resolved via project_category_mappings → project_category_types → rsm_building_use_mapping; Opus via base_sf__projectcategory → base_sf__lu_category.ExternalId__c → opus_building_use_mapping (merged in silver; live after next ETL run). CW multi-tag silver still pending (see docs/building_use_spec.md § 8). See docs/gold_layer_specification.md § 4.",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_building_uses",
+    "columns": [
+      {
+        "name": "project_building_use_id",
+        "type": "bigint",
+        "description": "Deterministic XXHASH64(project_id, source category id). Primary key."
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "FK to project_fields.project_id."
+      },
+      {
+        "name": "building_use_code",
+        "type": "string",
+        "description": "Hubexo gold building-use code (BU-N). NULL when the source category isn't in the per-source mapping seed (rsm_building_use_mapping / opus_building_use_mapping)."
+      },
+      {
+        "name": "building_use_group",
+        "type": "string",
+        "description": "Coarse 12-group rollup of building_use_code. NULL iff building_use_code is NULL."
+      },
+      {
+        "name": "source_building_use",
+        "type": "string",
+        "description": "Original category label from the source system (RSM project_category_types.name, e.g. 'Apartments'; Opus base_sf__lu_category.Name, e.g. 'Houses (PRS)'). Always present, even when building_use_code is NULL."
+      },
+      {
+        "name": "is_primary",
+        "type": "boolean",
+        "description": "TRUE for the project's primary tag — exactly one row per project (enforced by a singular test). RSM: main=1 with a lex tie-break on project_category_type_id ASC; Opus: lowest CategoryRankNumber__c with a lex tie-break on ExternalId__c ASC. Equals the row surfaced on project_fields.building_use_code."
+      },
+      {
+        "name": "ranking",
+        "type": "int",
+        "description": "1 for the primary tag, 2+ for secondaries. Deterministic per source (RSM: main DESC, project_category_type_id ASC; Opus: CategoryRankNumber__c ASC, ExternalId__c ASC)."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "Source freshness for the tag. RSM: GREATEST of the project and category-mapping timestamps; Opus: the project's last_modified_at."
+      }
+    ]
+  },
+  "project_building_uses_synced": {
+    "table": "project_building_uses_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_building_uses_synced",
+    "columns": [
+      {
+        "name": "project_building_use_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "building_use_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "building_use_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "source_building_use",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "is_primary",
+        "type": "boolean",
+        "description": ""
+      },
+      {
+        "name": "ranking",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_dimensions": {
+    "table": "project_dimensions",
+    "description": "Cross-sector physical dimensions and counts per project (1:1 on\nproject_id). Every project gets a row, but most columns are sparse\n(coverage typically 0-4 fields per project across the 16). Sector-\nspecific dimensions (project_residential / project_hospitality / …)\nship as separate 1:1 LEFT JOIN-able tables in later PRs.\nSee docs/dimensions_spec.md and docs/gold_layer_specification.md § 4.\n",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_dimensions",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "FK to project_fields.project_id."
+      },
+      {
+        "name": "storeys_above_ground",
+        "type": "bigint",
+        "description": "Maximum storey count above ground level. (PJ-14)"
+      },
+      {
+        "name": "storeys_below_ground",
+        "type": "bigint",
+        "description": "Maximum basement/sub-grade storey count. (PJ-15)"
+      },
+      {
+        "name": "building_height_m",
+        "type": "double",
+        "description": "Linear distance from ground to top floor, metres. (PJ-16) Opus only."
+      },
+      {
+        "name": "gross_floor_area_sqm",
+        "type": "double",
+        "description": "Total floor area summed across all floors, m². (PJ-18) CW source is sq ft, converted ×0.092903."
+      },
+      {
+        "name": "gross_floor_area_source",
+        "type": "string",
+        "description": "Provenance enum (Researcher / System Calculated / Estimated / Confirmed). (PJ-19) NULL today — no source surfaces this hint."
+      },
+      {
+        "name": "site_area_sqm",
+        "type": "double",
+        "description": "Land area of the project site, m². (PJ-20) Opus only (hectares × 10,000); NULL on CW + RSM."
+      },
+      {
+        "name": "number_of_buildings",
+        "type": "bigint",
+        "description": "Distinct building structures on the project. (PJ-21) RSM huskroppar, Opus structures, CW BuildingCount."
+      },
+      {
+        "name": "above_ground_parking_spaces",
+        "type": "bigint",
+        "description": "(PJ-22) RSM source conflates above + below ground; same caveat applies to CW ParkingCount."
+      },
+      {
+        "name": "basement_parking_spaces",
+        "type": "bigint",
+        "description": "(PJ-23) Opus only."
+      },
+      {
+        "name": "bicycle_spaces",
+        "type": "bigint",
+        "description": "(PJ-24) Opus only."
+      },
+      {
+        "name": "refurbishment_area_sqm",
+        "type": "double",
+        "description": "Area being rebuilt/refurbished, m². (PJ-25) RSM only. Only meaningful when development_type ∈ ('Refurbishment','Alteration/Addition/Conversion')."
+      },
+      {
+        "name": "gross_volume_cbm",
+        "type": "double",
+        "description": "Total enclosed building volume, m³. (PJ-26) RSM only."
+      },
+      {
+        "name": "demolition_area_sqm",
+        "type": "double",
+        "description": "Area being demolished, m². (PJ-27) RSM only. Only meaningful when development_type = 'Demolition'."
+      },
+      {
+        "name": "usable_floor_area_sqm",
+        "type": "double",
+        "description": "Net floor area inside walls (bruksarea), m². (PJ-28) RSM only."
+      },
+      {
+        "name": "building_footprint_sqm",
+        "type": "double",
+        "description": "Footprint on the ground (byggnadsarea), m². (PJ-32) RSM only."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "GREATEST of project + measurement source timestamps."
+      }
+    ]
+  },
+  "project_dimensions_synced": {
+    "table": "project_dimensions_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_dimensions_synced",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "storeys_above_ground",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "storeys_below_ground",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "building_height_m",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "gross_floor_area_sqm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "gross_floor_area_source",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "site_area_sqm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "number_of_buildings",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "above_ground_parking_spaces",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "basement_parking_spaces",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "bicycle_spaces",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "refurbishment_area_sqm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "gross_volume_cbm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "demolition_area_sqm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "usable_floor_area_sqm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "building_footprint_sqm",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_documents": {
+    "table": "project_documents",
+    "description": "Linked documents / files per project (permits, drawings, RFPs, news,\ndeveloper pages, …). 1:many on project_id. Each row is a single link\nwith a controlled `document_type`. Sparse: only CW (report_url_static)\nand Opus (ProjectUrl) carry any source today; ~12K CW projects have a\nlink (mostly drawings) and ~10.8K Opus projects carry a ProjectUrl on\nthe dev sample. RSM is deferred (no source). Storage is two-phase\n(see docs/documents_spec.md § 3): Phase 1 (now) `url` is the original\nexternal source link, reused as-is and mirrored to Lakebase\n(project_documents_synced) — no PDF is hosted. Phase 2 (future) a\nseparate sync ingests the PDFs into Databricks-managed storage and\ngenerates our own served link that lands in `url` with no schema\nchange.\n",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_documents",
+    "columns": [
+      {
+        "name": "project_document_id",
+        "type": "bigint",
+        "description": "Deterministic XXHASH64(project_id, origin_id). Primary key."
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "FK to project_fields.project_id."
+      },
+      {
+        "name": "document_type",
+        "type": "string",
+        "description": "Gold document type code, e.g. `permit`, `drawing`, `rfp`, `news`, `developer_site`. Vocabulary in seeds/gold_document_types.csv."
+      },
+      {
+        "name": "title",
+        "type": "string",
+        "description": "Human-readable label for the document (NULL when the source carries none)."
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": "Optional longer description of the document."
+      },
+      {
+        "name": "url",
+        "type": "string",
+        "description": "Resolvable link to the document. Phase 1 (now): the original external source link, reused as-is (no PDF hosted by us). Phase 2 (future): our own served link to an owned PDF in Databricks-managed storage — same column, no schema change. See docs/documents_spec.md § 3."
+      },
+      {
+        "name": "media_type",
+        "type": "string",
+        "description": "MIME type inferred from the URL extension. `application/pdf` when detectable, else NULL."
+      },
+      {
+        "name": "origin_id",
+        "type": "string",
+        "description": "Source-native id of the link (CW UrlId; Opus origin_id) for traceability."
+      },
+      {
+        "name": "origin_research_system",
+        "type": "string",
+        "description": "`CW` | `OPUS`. Matches the project_metadata convention."
+      },
+      {
+        "name": "sort_order",
+        "type": "int",
+        "description": "Display order where the source provides one; NULL otherwise."
+      },
+      {
+        "name": "is_visible",
+        "type": "boolean",
+        "description": "Whether the link is publicly visible in the source (CW Display=1; Opus IsPublished)."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "Source link's last-modified timestamp; drives the incremental merge."
+      }
+    ]
+  },
+  "project_documents_synced": {
+    "table": "project_documents_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_documents_synced",
+    "columns": [
+      {
+        "name": "project_document_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "document_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "title",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "url",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "media_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "origin_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "origin_research_system",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "sort_order",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "is_visible",
+        "type": "boolean",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_fields": {
+    "table": "project_fields",
+    "description": "Base table for a construction project. Uses the three-dimension stage model (planning_stage, contract_stage, project_status). See docs/gold_layer_specification.md § 5.",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_fields",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "project_id that links all Mimir project tables"
+      },
+      {
+        "name": "project_heading",
+        "type": "string",
+        "description": "One line that summarises the work"
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": "Text elaborating project features, etc."
+      },
+      {
+        "name": "planning_stage_id",
+        "type": "int",
+        "description": "FK → gold_planning_stages.id. How far design / documentation has progressed (1=Early Planning … 7=Building Approval). NULL when project_status is frozen (Cancelled / On hold / Status pending / Site for Sale / Info Unavailable)."
+      },
+      {
+        "name": "contract_stage_id",
+        "type": "int",
+        "description": "FK → gold_contract_stages.id. Where main contractor procurement is (1=Pre-Tender … 8=Completed). NULL when project_status is frozen."
+      },
+      {
+        "name": "project_status_id",
+        "type": "int",
+        "description": "FK → gold_project_statuses.id. Overall project health (1=In progress … 8=Info Unavailable). Always populated — never null."
+      },
+      {
+        "name": "construction_start_date",
+        "type": "date",
+        "description": "Start of main works"
+      },
+      {
+        "name": "construction_end_date",
+        "type": "date",
+        "description": "When work is expected to end"
+      },
+      {
+        "name": "project_value",
+        "type": "double",
+        "description": "Cost of construction in local currency, does not include planning or land acquisition cost"
+      },
+      {
+        "name": "currency",
+        "type": "string",
+        "description": "Currency code per ISO 4217"
+      },
+      {
+        "name": "image_url",
+        "type": "string",
+        "description": "(Bonus field) URL to an image of the project, if available (never)"
+      },
+      {
+        "name": "building_use_code",
+        "type": "string",
+        "description": "Hubexo gold building-use code (e.g. BU-23 Apartment, BU-71 Bridge). Single primary value per project — for the full multi-tag detail see project_building_uses. Resolved per source: Opus via base_sf__projectcategory (primary = lowest CategoryRankNumber__c, lex tie-break on ExternalId__c) → base_sf__lu_category.ExternalId__c → opus_building_use_mapping; CW via projecttypeid → cw_building_use_mapping; RSM via the project_category_mappings row with main=1 + lex tie-break → rsm_building_use_mapping. "
+      },
+      {
+        "name": "building_use_group",
+        "type": "string",
+        "description": "Coarse 12-group rollup of building_use_code (e.g. BUG-RES Residential, BUG-INF Infrastructure - Transport, BUG-ENU Infrastructure - Energy & Utilities). Resolved from gold_building_use_definitions; NULL iff building_use_code is NULL. See docs/building_use_spec.md § 5 for the group taxonomy."
+      },
+      {
+        "name": "source_building_use",
+        "type": "string",
+        "description": "Original project-type / sector label from the source system, retained for traceability. Opus: base_sf__lu_category.Name (English, e.g. 'Houses (PRS)'; equals the seed source_project_type_name). CW: source_project_type_name from seed (English, e.g. 'Retail'). RSM: project_category_types.name (English, e.g. 'Apartments')."
+      },
+      {
+        "name": "development_type",
+        "type": "string",
+        "description": "Nature of the works — `New`, `Extension`, `Alteration/Addition/Conversion`, `Refurbishment`, `Maintenance`, `Demolition`, `Temporary`. Single primary value; multi-value detail lives in project_developments (1:many). See docs/project_classification_spec.md. Opus via mart_projects.developmenttype (pre-resolved string); CW via project_construction_static.constructiontypeid first-tagged → project_construction_types lookup → cw_development_type_mapping; RSM via the main=1 row of project_category_mapp"
+      },
+      {
+        "name": "contract_type",
+        "type": "string",
+        "description": "Form of the main construction contract — `General/Traditional`, `Design Build`, `Construction Management`, `Developer Builder`, `Public Private Partnership`, `Framework`, `Term Contract`, `Engineering Procurement & Construction / Turnkey`, `Project Management`, `Local / In-house labour`, `Not specified / Not yet established`. Distinct from `contract_stage` (procurement timeline). Opus via mart_projects.ContractType → opus_contract_type_mapping; RSM via projects.contract_type_id → contract_types."
+      },
+      {
+        "name": "ownership_type",
+        "type": "string",
+        "description": "Sector funding/ownership category — `Public / Government`, `Private`, `Public Private Partnership`, `Other`. Opus via mart_projects.Funding (JSON array; primary = first element) → opus_ownership_type_mapping. RSM NULL today — per spec § 5.3 it derives from the developer company's classification via Company Registry, deferred until that dependency lands. CW NULL (no project-level bronze field). See docs/project_classification_spec.md § 5.1."
+      },
+      {
+        "name": "ownership_level",
+        "type": "string",
+        "description": "Sub-classification of ownership_type — `Foreign Aid / International`, `National / Federal`, `State`, `Local`, `Non-Profit`, `International`, `Housing Association`, `Blank / Not specified`. The (ownership_type, ownership_level) pair must be one of the valid combinations defined in docs/project_classification_spec.md § 5.2 (enforced by the singular pair-validity test)."
+      },
+      {
+        "name": "visibility",
+        "type": "string",
+        "description": "Whether a consumer should show the project by default. `visible` = show normally; `hidden` = kept in gold but pulled from the public listing (a consumer following the project can still resolve it — downstream services own that logic). Projects that should never be shown at all (hard deletes, duplicates, drafts) are excluded from gold entirely upstream. Per-source derivation: RSM project_type_id=6 'Hidden, not public' → hidden; Opus IsArchived=TRUE → hidden; CW Display=0 → hidden. See docs/{rsm,o"
+      },
+      {
+        "name": "parent_project_id",
+        "type": "string",
+        "description": "Global gold project_id of this project's parent, when the source links projects (e.g. phased / superseded projects). Soft reference — the parent may itself be hidden or excluded, so this is NOT a hard FK. Opus from mart_projects.ParentProjectIds (first element); CW from report_static.ParentReportId. RSM always NULL — bronze has no usable parent link. NULL = no parent. See docs/{rsm,opus,cw}_mapping.md § Parent project link."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "The last time any of the fields in this table were modified. This is a bonus field that is not in the original Mimir model"
+      }
+    ]
+  },
+  "project_fields_synced": {
+    "table": "project_fields_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_fields_synced",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "project_heading",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "construction_start_date",
+        "type": "date",
+        "description": ""
+      },
+      {
+        "name": "construction_end_date",
+        "type": "date",
+        "description": ""
+      },
+      {
+        "name": "project_value",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "currency",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "image_url",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      },
+      {
+        "name": "building_use_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "building_use_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "source_building_use",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "development_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "contract_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "ownership_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "ownership_level",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "visibility",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "parent_project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "planning_stage_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "contract_stage_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "project_status_id",
+        "type": "int",
+        "description": ""
+      }
+    ]
+  },
+  "project_green_building": {
+    "table": "project_green_building",
+    "description": "Green building / environmental certifications per project. 1:many\non project_id — a project can pursue multiple schemes (Opus\ncarries BREEAM + CEEQUAL + CCS independently; RSM averages ~1.8\nschemes per certified project). Sparse: ~3-5% of any source's\nprojects carry an entry. Replaces the previously-disabled\ngreen_building.sql. See docs/green_building_spec.md.\n",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_green_building",
+    "columns": [
+      {
+        "name": "project_green_building_id",
+        "type": "bigint",
+        "description": "Deterministic XXHASH64(project_id, scheme_code). Primary key."
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "FK to project_fields.project_id."
+      },
+      {
+        "name": "scheme_code",
+        "type": "string",
+        "description": "Hubexo gold scheme code, e.g. `breeam`, `ceequal`, `dgnb`, `miljobyggn`. 22 schemes in seeds/gold_green_building_schemes.csv."
+      },
+      {
+        "name": "rating",
+        "type": "string",
+        "description": "Scheme-specific text rating (BREEAM Pass/Good/Excellent/Outstanding; LEED Certified/Silver/Gold/Platinum; CEEQUAL Award etc.). NULL for RSM (tag-only) and CCS."
+      },
+      {
+        "name": "score",
+        "type": "double",
+        "description": "Numeric final score where the scheme defines one (BREEAM, CEEQUAL). NULL elsewhere."
+      },
+      {
+        "name": "interim_score",
+        "type": "double",
+        "description": "Pre-construction / interim score (CEEQUALInterimGrade)."
+      },
+      {
+        "name": "percentage",
+        "type": "double",
+        "description": "Final percentage score where relevant (CEEQUAL)."
+      },
+      {
+        "name": "interim_percentage",
+        "type": "double",
+        "description": "Interim percentage score (CEEQUAL)."
+      },
+      {
+        "name": "assessment_status",
+        "type": "string",
+        "description": "Pre-assessment / Interim / Final / Certified / Registered. Drawn from BREEAMStage, CEEQUALStatus, or derived for CCS."
+      },
+      {
+        "name": "scheme_version",
+        "type": "string",
+        "description": "Version label of the scheme (BREEAMVersion, CEEQUALVersion)."
+      },
+      {
+        "name": "reference_number",
+        "type": "string",
+        "description": "External reference: BREEAMReference, CEEQUALProjectCode, CCSregistrationId."
+      },
+      {
+        "name": "certified_date",
+        "type": "date",
+        "description": "Date the project was certified (BREEAMCertifiedDate, CEEQUALVerifiedDate)."
+      },
+      {
+        "name": "gb_project_value",
+        "type": "double",
+        "description": "Project value as declared in the green-building data (CEEQUALValue)."
+      },
+      {
+        "name": "gb_currency",
+        "type": "string",
+        "description": "Currency of the green-building project value (CEEQUALCurrencyISO)."
+      },
+      {
+        "name": "source_scheme_name",
+        "type": "string",
+        "description": "Original scheme name from the source system, retained for traceability."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "GREATEST of project + scheme-source timestamps."
+      }
+    ]
+  },
+  "project_green_building_synced": {
+    "table": "project_green_building_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_green_building_synced",
+    "columns": [
+      {
+        "name": "project_green_building_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "scheme_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "rating",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "score",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "interim_score",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "percentage",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "interim_percentage",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "assessment_status",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "scheme_version",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "reference_number",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "certified_date",
+        "type": "date",
+        "description": ""
+      },
+      {
+        "name": "gb_project_value",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "gb_currency",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "source_scheme_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_materials": {
+    "table": "project_materials",
+    "description": "Materials / components / work types per project. 1:many on\nproject_id — a project can carry many material rows. Resolved\nagainst the Mimir Superset Materials catalogue (965 codes) via\nper-source mapping seeds. See docs/materials_spec.md and\ndocs/gold_layer_specification.md § 4.\n",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_materials",
+    "columns": [
+      {
+        "name": "project_material_id",
+        "type": "bigint",
+        "description": "Deterministic XXHASH64(project_id, source_material_name). Primary key."
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "FK to project_fields.project_id."
+      },
+      {
+        "name": "material_code",
+        "type": "string",
+        "description": "Hubexo gold material code (MAT-NNNN). NULL when source value isn't yet in the seed."
+      },
+      {
+        "name": "material_group",
+        "type": "string",
+        "description": "Coarse rollup. From seed when material_code resolves; falls back to source's own group label otherwise."
+      },
+      {
+        "name": "source_material_name",
+        "type": "string",
+        "description": "Original material name from the source system."
+      },
+      {
+        "name": "source_kind",
+        "type": "string",
+        "description": "Granularity discriminator: 'material' (Opus), 'trade' (RSM, future), 'csi' (CW, future), 'craft' (RMS, future). Consumers querying 'what is this built of' should filter to 'material'."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "Timestamp of the latest update from source."
+      }
+    ]
+  },
+  "project_materials_synced": {
+    "table": "project_materials_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_materials_synced",
+    "columns": [
+      {
+        "name": "project_material_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "material_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "material_group",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "source_material_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "source_kind",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_metadata": {
+    "table": "project_metadata",
+    "description": "Metadata fields for a construction project. These are fields that are not directly about the project itself, but about the data we have on the project.",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_metadata",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "project_id that links all Mimir project tables"
+      },
+      {
+        "name": "first_published_by",
+        "type": "bigint",
+        "description": "The user that first published the project in source"
+      },
+      {
+        "name": "first_published_at",
+        "type": "timestamp",
+        "description": "When the project was first published in source"
+      },
+      {
+        "name": "latest_published_by",
+        "type": "bigint",
+        "description": "The user that last published the project in source"
+      },
+      {
+        "name": "latest_published_at",
+        "type": "timestamp",
+        "description": "When the project was last published in source"
+      },
+      {
+        "name": "origin_research_system",
+        "type": "string",
+        "description": "(Bonus field) The system from which the project data was sourced."
+      },
+      {
+        "name": "origin_id",
+        "type": "string",
+        "description": "(Bonus field) The original ID of the project in the source system."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "The last time any of the fields in this table were modified. This is a bonus field that is not in the original Mimir model"
+      }
+    ]
+  },
+  "project_metadata_synced": {
+    "table": "project_metadata_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_metadata_synced",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "first_published_by",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "first_published_at",
+        "type": "timestamp",
+        "description": ""
+      },
+      {
+        "name": "latest_published_by",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "latest_published_at",
+        "type": "timestamp",
+        "description": ""
+      },
+      {
+        "name": "origin_research_system",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "origin_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_residential": {
+    "table": "project_residential",
+    "description": "Residential-sector dimension extension (1:1 on project_id, sparse —\nonly projects with residential unit data get a row, so LEFT JOIN it\nonto project_dimensions / project_fields). Counts that only apply to\nresidential projects live here rather than on the cross-sector\nproject_dimensions core. total_unit_count (RES-1) is the only field\nwith a live source today (RSM \"Number of apartments\"); the Opus RES-*\nfields (units started/completed, bedroom mix, affordable / care-home\n/ student-bed counts) land in later PRs.\nSee docs/dimensions_spec.md § 4.2 and docs/gold_layer_specification.md § 4.\n",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_residential",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "FK to project_fields.project_id."
+      },
+      {
+        "name": "total_unit_count",
+        "type": "bigint",
+        "description": "Number of residential units (dwellings) in the project. (RES-1) RSM 'Number of apartments' today; also fed by APAC / CD21 'Residential units' when their bronze lands. A source 0 is treated as unknown → row is absent (never 0)."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "GREATEST of project + measurement source timestamps."
+      }
+    ]
+  },
+  "project_residential_synced": {
+    "table": "project_residential_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_residential_synced",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "total_unit_count",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_role_contacts": {
+    "table": "project_role_contacts",
+    "description": "Named persons per project role assignment. Links each role assignment to contacts in the Company Registry. A role assignment can have multiple contacts (many:many).",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_role_contacts",
+    "columns": [
+      {
+        "name": "assignment_contact_id",
+        "type": "bigint",
+        "description": "Primary key for this mapping table."
+      },
+      {
+        "name": "assignment_id",
+        "type": "bigint",
+        "description": "Foreign key to project_roles.assignment_id."
+      },
+      {
+        "name": "contact_id",
+        "type": "string",
+        "description": "Reference to the contact in the Company Registry. Used to resolve current email/phone details. Null if the contact cannot be matched."
+      },
+      {
+        "name": "person_role_type",
+        "type": "string",
+        "description": "The role type of the contact person in relation to the project role assignment."
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_role_contacts_synced": {
+    "table": "project_role_contacts_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_role_contacts_synced",
+    "columns": [
+      {
+        "name": "assignment_contact_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "assignment_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "contact_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "person_role_type",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_roles": {
+    "table": "project_roles",
+    "description": "Project roles assigned to this workplace. A project can have multiple roles and multiple assignment per role",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_roles",
+    "columns": [
+      {
+        "name": "assignment_id",
+        "type": "bigint",
+        "description": "The unique assignment ID for this project role."
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "project_id that links all Mimir project tables"
+      },
+      {
+        "name": "workplace_id",
+        "type": "string",
+        "description": "The Company Registry workplace_id that is associated with this project role assignment. Note that this is not a required field, as some roles are assigned to companies without a specific workplace in RSM."
+      },
+      {
+        "name": "company_id",
+        "type": "string",
+        "description": "Company Registry ID of the company holding the role on the project. NULL for CW + Opus until the Company-Registry stitch lands — those rows are attributed via company_name only."
+      },
+      {
+        "name": "company_name",
+        "type": "string",
+        "description": "Denormalised legal name of the company holding the role. GOLD EXPLORER USE ONLY — do NOT consume in customer-facing apps or products; those must resolve the canonical company name through the Company Registry (via company_id / workplace_id), never off this column. Retained because CW + Opus carry company_id = NULL until the Company-Registry stitch lands, so it is their only company attribution today; RSM populates it from the Company Registry legal_name."
+      },
+      {
+        "name": "project_role_code",
+        "type": "string",
+        "description": "Hubexo gold role code (e.g. ARC-001, MCT-009), assigned to the company. Mapped from RSM role types via the rsm_role_mapping seed (see seeds/gold_role_definitions.csv and docs/roles_proposal.md). Unmapped roles default to OTH-006 (Enquiries)."
+      },
+      {
+        "name": "source_role_name",
+        "type": "string",
+        "description": "The original RSM project role type name before gold-layer mapping"
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": "Timestamp of the latest update from source."
+      }
+    ]
+  },
+  "project_roles_synced": {
+    "table": "project_roles_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_roles_synced",
+    "columns": [
+      {
+        "name": "assignment_id",
+        "type": "bigint",
+        "description": ""
+      },
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "workplace_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "company_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "company_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "project_role_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "source_role_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "project_status_translations": {
+    "table": "project_status_translations",
+    "description": "europe_prod_catalog.mimir_model_gold.project_status_translations (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_status_translations",
+    "columns": [
+      {
+        "name": "project_status_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "project_status_translations_synced": {
+    "table": "project_status_translations_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_status_translations_synced",
+    "columns": [
+      {
+        "name": "project_status_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "project_statuses": {
+    "table": "project_statuses",
+    "description": "europe_prod_catalog.mimir_model_gold.project_statuses (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_statuses",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "key",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "project_statuses_synced": {
+    "table": "project_statuses_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.project_statuses_synced",
+    "columns": [
+      {
+        "name": "id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "key",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_definition_translations": {
+    "table": "role_definition_translations",
+    "description": "europe_prod_catalog.mimir_model_gold.role_definition_translations (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_definition_translations",
+    "columns": [
+      {
+        "name": "project_role_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_definition_translations_synced": {
+    "table": "role_definition_translations_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_definition_translations_synced",
+    "columns": [
+      {
+        "name": "project_role_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_definitions": {
+    "table": "role_definitions",
+    "description": "europe_prod_catalog.mimir_model_gold.role_definitions (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_definitions",
+    "columns": [
+      {
+        "name": "project_role_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "role_group_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_definitions_synced": {
+    "table": "role_definitions_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_definitions_synced",
+    "columns": [
+      {
+        "name": "project_role_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "role_group_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_group_translations": {
+    "table": "role_group_translations",
+    "description": "europe_prod_catalog.mimir_model_gold.role_group_translations (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_group_translations",
+    "columns": [
+      {
+        "name": "group_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_group_translations_synced": {
+    "table": "role_group_translations_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_group_translations_synced",
+    "columns": [
+      {
+        "name": "group_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "language_id",
+        "type": "int",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_groups": {
+    "table": "role_groups",
+    "description": "europe_prod_catalog.mimir_model_gold.role_groups (Unity Catalog)",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_groups",
+    "columns": [
+      {
+        "name": "group_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "role_groups_synced": {
+    "table": "role_groups_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.role_groups_synced",
+    "columns": [
+      {
+        "name": "group_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "description",
+        "type": "string",
+        "description": ""
+      }
+    ]
+  },
+  "site_address": {
+    "table": "site_address",
+    "description": "Address related fields for a construction project.",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.site_address",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": "project_id that links all Mimir project tables"
+      },
+      {
+        "name": "street_number",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "street_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "postal_town",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "postal_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "country",
+        "type": "string",
+        "description": "The country where the project is located."
+      },
+      {
+        "name": "admin_level_1",
+        "type": "string",
+        "description": "The first level administrative division where the project is located. This is typically a state, province or region."
+      },
+      {
+        "name": "admin_level_2",
+        "type": "string",
+        "description": "The second level administrative division where the project is located. This is typically a county, district or municipality."
+      },
+      {
+        "name": "latitude",
+        "type": "double",
+        "description": "latitude of the project site, if available"
+      },
+      {
+        "name": "longitude",
+        "type": "double",
+        "description": "longitude of the project site, if available"
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  },
+  "site_address_synced": {
+    "table": "site_address_synced",
+    "description": "Database table synced from another UC table",
+    "catalog": "europe_prod_catalog",
+    "schema": "mimir_model_gold",
+    "full_name": "europe_prod_catalog.mimir_model_gold.site_address_synced",
+    "columns": [
+      {
+        "name": "project_id",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "street_number",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "street_name",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "postal_town",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "postal_code",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "country",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "admin_level_1",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "admin_level_2",
+        "type": "string",
+        "description": ""
+      },
+      {
+        "name": "latitude",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "longitude",
+        "type": "double",
+        "description": ""
+      },
+      {
+        "name": "last_modified_at",
+        "type": "timestamp",
+        "description": ""
+      }
+    ]
+  }
+}

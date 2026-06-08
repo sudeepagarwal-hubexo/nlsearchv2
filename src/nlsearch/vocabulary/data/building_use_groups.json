@@ -1,0 +1,50 @@
+[
+  {
+    "canonical": "BUG-RES",
+    "label_en": "Residential"
+  },
+  {
+    "canonical": "BUG-COM",
+    "label_en": "Commercial & Office"
+  },
+  {
+    "canonical": "BUG-RET",
+    "label_en": "Retail & Hospitality"
+  },
+  {
+    "canonical": "BUG-IND",
+    "label_en": "Industrial & Logistics"
+  },
+  {
+    "canonical": "BUG-EDU",
+    "label_en": "Education"
+  },
+  {
+    "canonical": "BUG-HLT",
+    "label_en": "Healthcare"
+  },
+  {
+    "canonical": "BUG-CCA",
+    "label_en": "Community, Cultural & Amenity"
+  },
+  {
+    "canonical": "BUG-SPL",
+    "label_en": "Sport & Leisure"
+  },
+  {
+    "canonical": "BUG-INF",
+    "label_en": "Infrastructure - Transport"
+  },
+  {
+    "canonical": "BUG-ENU",
+    "label_en": "Infrastructure - Energy & Utilities"
+  },
+  {
+    "canonical": "BUG-AGR",
+    "label_en": "Agriculture & Forestry"
+  },
+  {
+    "canonical": "BUG-OTH",
+    "label_en": "Other / Mixed"
+  }
+]

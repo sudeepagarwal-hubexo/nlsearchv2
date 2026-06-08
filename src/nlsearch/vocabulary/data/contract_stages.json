@@ -1,0 +1,42 @@
+[
+  {
+    "canonical": "SOS",
+    "label_en": "Start on site",
+    "labels_i18n": "['Byggstart']"
+  },
+  {
+    "canonical": "AWD",
+    "label_en": "Main Contract Awarded",
+    "labels_i18n": "['Huvudentreprenad tilldelad']"
+  },
+  {
+    "canonical": "NEG",
+    "label_en": "Contract Negotiations Underway",
+    "labels_i18n": "['Kontraktsf\u00f6rhandling p\u00e5g\u00e5r']"
+  },
+  {
+    "canonical": "PRE",
+    "label_en": "Pre-Tender",
+    "labels_i18n": "['F\u00f6re anbud']"
+  },
+  {
+    "canonical": "TCR",
+    "label_en": "Tenders Closed/Tenders Returned",
+    "labels_i18n": "['Anbud inkomna']"
+  },
+  {
+    "canonical": "TCI",
+    "label_en": "Tenders Called/ Tenders Invited",
+    "labels_i18n": "['Anbud infordrade']"
+  },
+  {
+    "canonical": "ATR",
+    "label_en": "Applications to Tender/REOI",
+    "labels_i18n": "['Intresseanm\u00e4lan']"
+  },
+  {
+    "canonical": "COM",
+    "label_en": "Completed",
+    "labels_i18n": "['F\u00e4rdigst\u00e4lld']"
+  }
+]
